@@ -1,0 +1,11 @@
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\01_ObjectOrientedProgramming\T1\OOP.ConsoleExample\OOP.ConsoleExample\bin\Debug\OOP.ConsoleExample.exe.config
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\01_ObjectOrientedProgramming\T1\OOP.ConsoleExample\OOP.ConsoleExample\bin\Debug\OOP.ConsoleExample.exe
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\01_ObjectOrientedProgramming\T1\OOP.ConsoleExample\OOP.ConsoleExample\bin\Debug\OOP.ConsoleExample.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\01_ObjectOrientedProgramming\T1\OOP.ConsoleExample\OOP.ConsoleExample\obj\Debug\OOP.ConsoleExample.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\01_ObjectOrientedProgramming\T1\OOP.ConsoleExample\OOP.ConsoleExample\obj\Debug\OOP.ConsoleExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\01_ObjectOrientedProgramming\T1\OOP.ConsoleExample\OOP.ConsoleExample\obj\Debug\OOP.ConsoleExample.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\01_ObjectOrientedProgramming\T1\OOP.ConsoleExample\OOP.ConsoleExample\obj\Debug\OOP.ConsoleExample.exe
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\01_ObjectOrientedProgramming\T1\OOP.ConsoleExample\OOP.ConsoleExample\obj\Debug\OOP.ConsoleExample.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\01_ObjectOrientedProgramming\T1\OOP.ConsoleExample\OOP.ConsoleExample\bin\Debug\AudioManager.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\01_ObjectOrientedProgramming\T1\OOP.ConsoleExample\OOP.ConsoleExample\bin\Debug\AudioManager.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\01_ObjectOrientedProgramming\T1\OOP.ConsoleExample\OOP.ConsoleExample\obj\Debug\OOP.ConsoleExample.csproj.CopyComplete
