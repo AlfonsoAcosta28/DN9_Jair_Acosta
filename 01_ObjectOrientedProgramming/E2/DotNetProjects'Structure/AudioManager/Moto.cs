@@ -7,12 +7,12 @@ using System.Threading.Tasks;
 
 namespace AudioManager
 {
-    public class Camion : Vehiculo
+    public class Moto : Vehiculo
     {
         public override void VehiculoSonido()
         {
             base.VehiculoSonido();
-            AudioFileReader audioFile = new AudioFileReader("Resoures/camion.wav");
+            AudioFileReader audioFile = new AudioFileReader("Resoures/moto.wav");
             WaveOutEvent waveOutEvent = new WaveOutEvent();
 
             waveOutEvent.Init(audioFile);
@@ -28,7 +28,7 @@ namespace AudioManager
 
         public override string ToString()
         {
-            return "Camion";
+            return "Moto";
         }
     }
 }
