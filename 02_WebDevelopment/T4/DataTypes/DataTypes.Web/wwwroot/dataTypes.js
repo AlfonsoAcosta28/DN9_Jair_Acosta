@@ -8,9 +8,13 @@ var complexObject = {
     lastName: "Perez",
     age : 19
 }
-var ul = "<ul>"
+/*var ul = "<ul>"
 for (var i = 0; i < textExample.length; i++) {
     ul += ("<li>" + textExample[i] + "</li>")
 }
 ul += "</ul>"
-element.innerHTML = ul;
+*/
+
+var data = "13333";
+
+element.innerHTML = typeof (data);

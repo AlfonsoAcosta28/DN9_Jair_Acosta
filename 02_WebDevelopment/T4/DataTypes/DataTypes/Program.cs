@@ -34,6 +34,10 @@ namespace DataTypes
 
 
             Console.WriteLine(timeSamp1.TotalDays);
+
+            string test = "15";
+
+            age = int.Parse(test);
             Console.ReadKey();
         }
     }
