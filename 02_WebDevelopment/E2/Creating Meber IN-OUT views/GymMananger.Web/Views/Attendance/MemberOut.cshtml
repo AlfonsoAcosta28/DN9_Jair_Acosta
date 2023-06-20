@@ -1,0 +1,82 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<!doctype html>
+<html lang="en" class="h-100">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <meta name="generator" content="Hugo 0.88.1">
+    <title>GYM MANAGER</title>
+    <link rel="icon" href="~/Images/gym.png" />
+    <link rel="canonical" href="https://getbootstrap.com/docs/5.1/examples/sticky-footer-navbar/">
+
+
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="~/BootsTrap/css/bootstrap.min.css" />
+    <meta name="theme-color" content="#7952b3">
+
+
+    <style>
+        .bd-placeholder-img {
+            font-size: 1.125rem;
+            text-anchor: middle;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            user-select: none;
+        }
+
+        @@media (min-width: 768px) {
+            .bd-placeholder-img-lg {
+                font-size: 3.5rem;
+            }
+        }
+
+        main > .container {
+            padding: 60px 15px 0;
+        }
+
+        .logo {
+            width: 5vh;
+            height: 5vh;
+        }
+    </style>
+
+
+</head>
+<body class="d-flex flex-column h-100">
+
+    <header>
+        <!-- Fixed navbar -->
+        <div class="nav-index">
+            @{
+                Html.RenderPartial("~/Views/Members/NavegacionParcial.cshtml");
+            }
+        </div>
+
+    </header>
+    <!-- Begin page content -->
+    <main class="flex-shrink-0">
+        <div class="container">
+            <h1 class="mt-5">MEMBER OUT</h1>
+            <form>
+                <div class="mb-3">
+                    <label for="memberId" class="form-label">Identificador del miembro</label>
+                    <input type="text" class="form-control" id="menberId" name="memberId" placeholder="Ingrese el identificador del miembro"/>
+
+                </div>
+
+                <button type="submit" class="btn btn-dark">Aceptar</button>
+            </form>
+        </div>
+    </main>
+
+    <script src="~/BootsTrap/js/bootstrap.min.js"></script>
+
+</body>
+</html>
