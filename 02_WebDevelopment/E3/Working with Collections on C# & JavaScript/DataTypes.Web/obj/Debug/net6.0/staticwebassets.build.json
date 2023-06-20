@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "KjoXUlAF1E5B/zH3kvJAFLWQBznuPTKwMAbI4ZsWYcE=",
+  "Source": "DataTypes.Web",
+  "BasePath": "_content/DataTypes.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DataTypes.Web\\wwwroot",
+      "Source": "DataTypes.Web",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\DN9_Jair_Acosta\\02_WebDevelopment\\E3\\Working with Collections on C# & JavaScript\\DataTypes.Web\\wwwroot\\",
+      "BasePath": "_content/DataTypes.Web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\DN9_Jair_Acosta\\02_WebDevelopment\\E3\\Working with Collections on C# & JavaScript\\DataTypes.Web\\wwwroot\\dataTypes.js",
+      "SourceId": "DataTypes.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\DN9_Jair_Acosta\\02_WebDevelopment\\E3\\Working with Collections on C# & JavaScript\\DataTypes.Web\\wwwroot\\",
+      "BasePath": "_content/DataTypes.Web",
+      "RelativePath": "dataTypes.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dataTypes.js"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\DN9_Jair_Acosta\\02_WebDevelopment\\E3\\Working with Collections on C# & JavaScript\\DataTypes.Web\\wwwroot\\lib\\moment.js",
+      "SourceId": "DataTypes.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\DN9_Jair_Acosta\\02_WebDevelopment\\E3\\Working with Collections on C# & JavaScript\\DataTypes.Web\\wwwroot\\",
+      "BasePath": "_content/DataTypes.Web",
+      "RelativePath": "lib/moment.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\moment.js"
+    }
+  ]
+}
