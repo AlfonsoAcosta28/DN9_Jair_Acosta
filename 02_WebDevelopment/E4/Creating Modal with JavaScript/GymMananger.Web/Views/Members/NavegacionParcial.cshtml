@@ -1,0 +1,45 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<nav class="navbar navbar-expand-md navbar-dark fixed-top bg-info navbar-dark">
+    <div class="container-fluid">
+        <a class="navbar-brand fs-4 fw-bold" href="~/Members/index">
+            <span class="text-dark mx-auto p-4">GymManager</span>
+            <img src="~/Images/gym.png" class="logo rounded float-start" alt="img gym" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav me-auto mb-2 mb-md-0">
+                <li class="nav-item">
+                    <a class="nav-link active fs-6 text-dark" aria-current="page" href="~/members/index">Home</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle fs-6 text-dark" href="#" id="memberDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Member
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="memberDropdown">
+                        <li><a class="dropdown-item" href="~/attendance/memberin">IN</a></li>
+                        <li><a class="dropdown-item" href="~/attendance/memberout">OUT</a></li>
+                    </ul>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link disabled fs-6 text-dark">Disabled</a>
+                </li>
+            </ul>
+            <form class="d-flex mx-auto">
+                <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                <button class="btn btn-outline-success bg-dark" type="submit">Search</button>
+            </form>
+            <div class="navbar-text text-dark fs-6">
+                @{
+                    Html.RenderPartial("~/Views/Members/LayoutNombreParcial.cshtml");
+                }
+            </div>
+        </div>
+    </div>
+</nav>
