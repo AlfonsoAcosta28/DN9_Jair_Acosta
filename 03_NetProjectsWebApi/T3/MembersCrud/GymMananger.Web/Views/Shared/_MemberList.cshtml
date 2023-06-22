@@ -1,0 +1,23 @@
+﻿@model List<GymManager.Core.Members.Member>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">NAME</th>
+            <th scope="col">LAST NAME</th>
+            <th scope="col">BIRTH DAY</th>
+            <th scope="col">EMAIL</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var member in Model)
+        {
+            <tr>
+                <th scope="row">@member.Name</th>
+                <th>@member.LastName</th>
+                <th>@member.BirthDay</th>
+                <th>@member.Email</th>
+            </tr>
+        } 
+    </tbody>
+</table>

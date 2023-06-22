@@ -1,0 +1,65 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = GymManager.Web
+build_property.RootNamespace = GymManager.Web
+build_property.ProjectDir = C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T3\MembersCrud\GymMananger.Web\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T3\MembersCrud\GymMananger.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/User/Documents/GitHub/DN9_Jair_Acosta/03_NetProjectsWebApi/T3/MembersCrud/GymMananger.Web/Views/Attendance/MemberIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0ZW5kYW5jZVxNZW1iZXJJbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/GitHub/DN9_Jair_Acosta/03_NetProjectsWebApi/T3/MembersCrud/GymMananger.Web/Views/Attendance/MemberOut.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0ZW5kYW5jZVxNZW1iZXJPdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/GitHub/DN9_Jair_Acosta/03_NetProjectsWebApi/T3/MembersCrud/GymMananger.Web/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/GitHub/DN9_Jair_Acosta/03_NetProjectsWebApi/T3/MembersCrud/GymMananger.Web/Views/Members/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/GitHub/DN9_Jair_Acosta/03_NetProjectsWebApi/T3/MembersCrud/GymMananger.Web/Views/Members/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/GitHub/DN9_Jair_Acosta/03_NetProjectsWebApi/T3/MembersCrud/GymMananger.Web/Views/Members/Test.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyc1xUZXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/GitHub/DN9_Jair_Acosta/03_NetProjectsWebApi/T3/MembersCrud/GymMananger.Web/Views/Shared/LayoutNombreParcial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dE5vbWJyZVBhcmNpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/GitHub/DN9_Jair_Acosta/03_NetProjectsWebApi/T3/MembersCrud/GymMananger.Web/Views/Shared/Modal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE1vZGFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/GitHub/DN9_Jair_Acosta/03_NetProjectsWebApi/T3/MembersCrud/GymMananger.Web/Views/Shared/NavegacionParcial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE5hdmVnYWNpb25QYXJjaWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/GitHub/DN9_Jair_Acosta/03_NetProjectsWebApi/T3/MembersCrud/GymMananger.Web/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/GitHub/DN9_Jair_Acosta/03_NetProjectsWebApi/T3/MembersCrud/GymMananger.Web/Views/Shared/_MemberList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NZW1iZXJMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Documents/GitHub/DN9_Jair_Acosta/03_NetProjectsWebApi/T3/MembersCrud/GymMananger.Web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
