@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T2\ParcialViews\GymManager.ApplicationServices\bin\Debug\net6.0\GymManager.ApplicationServices.deps.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T2\ParcialViews\GymManager.ApplicationServices\bin\Debug\net6.0\GymManager.ApplicationServices.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T2\ParcialViews\GymManager.ApplicationServices\bin\Debug\net6.0\GymManager.ApplicationServices.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T2\ParcialViews\GymManager.ApplicationServices\bin\Debug\net6.0\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T2\ParcialViews\GymManager.ApplicationServices\bin\Debug\net6.0\GymManager.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T2\ParcialViews\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T2\ParcialViews\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T2\ParcialViews\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T2\ParcialViews\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T2\ParcialViews\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T2\ParcialViews\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T2\ParcialViews\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T2\ParcialViews\GymManager.ApplicationServices\obj\Debug\net6.0\refint\GymManager.ApplicationServices.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T2\ParcialViews\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T2\ParcialViews\GymManager.ApplicationServices\obj\Debug\net6.0\ref\GymManager.ApplicationServices.dll
