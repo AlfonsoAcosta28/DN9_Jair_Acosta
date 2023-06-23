@@ -1,0 +1,12 @@
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T6\WebApi\WebApi.WindowClient\Api.Entities\bin\Debug\net6.0\Api.Entities.deps.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T6\WebApi\WebApi.WindowClient\Api.Entities\bin\Debug\net6.0\Api.Entities.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T6\WebApi\WebApi.WindowClient\Api.Entities\bin\Debug\net6.0\Api.Entities.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T6\WebApi\WebApi.WindowClient\Api.Entities\obj\Debug\net6.0\Api.Entities.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T6\WebApi\WebApi.WindowClient\Api.Entities\obj\Debug\net6.0\Api.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T6\WebApi\WebApi.WindowClient\Api.Entities\obj\Debug\net6.0\Api.Entities.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T6\WebApi\WebApi.WindowClient\Api.Entities\obj\Debug\net6.0\Api.Entities.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T6\WebApi\WebApi.WindowClient\Api.Entities\obj\Debug\net6.0\Api.Entities.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T6\WebApi\WebApi.WindowClient\Api.Entities\obj\Debug\net6.0\Api.Entities.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T6\WebApi\WebApi.WindowClient\Api.Entities\obj\Debug\net6.0\refint\Api.Entities.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T6\WebApi\WebApi.WindowClient\Api.Entities\obj\Debug\net6.0\Api.Entities.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T6\WebApi\WebApi.WindowClient\Api.Entities\obj\Debug\net6.0\ref\Api.Entities.dll
