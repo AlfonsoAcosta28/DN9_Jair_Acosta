@@ -1,0 +1,28 @@
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T7\Authentication\GymManager.DataAcces\bin\Debug\net6.0\GymManager.DataAcces.deps.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T7\Authentication\GymManager.DataAcces\bin\Debug\net6.0\GymManager.DataAcces.runtimeconfig.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T7\Authentication\GymManager.DataAcces\bin\Debug\net6.0\GymManager.DataAcces.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T7\Authentication\GymManager.DataAcces\bin\Debug\net6.0\GymManager.DataAcces.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T7\Authentication\GymManager.DataAcces\obj\Debug\net6.0\GymManager.DataAcces.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T7\Authentication\GymManager.DataAcces\obj\Debug\net6.0\GymManager.DataAcces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T7\Authentication\GymManager.DataAcces\obj\Debug\net6.0\GymManager.DataAcces.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T7\Authentication\GymManager.DataAcces\obj\Debug\net6.0\GymManager.DataAcces.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T7\Authentication\GymManager.DataAcces\obj\Debug\net6.0\GymManager.DataAcces.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T7\Authentication\GymManager.DataAcces\obj\Debug\net6.0\GymManager.DataAcces.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T7\Authentication\GymManager.DataAcces\obj\Debug\net6.0\refint\GymManager.DataAcces.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T7\Authentication\GymManager.DataAcces\obj\Debug\net6.0\GymManager.DataAcces.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T7\Authentication\GymManager.DataAcces\obj\Debug\net6.0\GymManager.DataAcces.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T7\Authentication\GymManager.DataAcces\obj\Debug\net6.0\ref\GymManager.DataAcces.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E1\UserName Parcial View\GymManager.DataAcces\bin\Debug\net6.0\GymManager.DataAcces.deps.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E1\UserName Parcial View\GymManager.DataAcces\bin\Debug\net6.0\GymManager.DataAcces.runtimeconfig.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E1\UserName Parcial View\GymManager.DataAcces\bin\Debug\net6.0\GymManager.DataAcces.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E1\UserName Parcial View\GymManager.DataAcces\bin\Debug\net6.0\GymManager.DataAcces.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E1\UserName Parcial View\GymManager.DataAcces\obj\Debug\net6.0\GymManager.DataAcces.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E1\UserName Parcial View\GymManager.DataAcces\obj\Debug\net6.0\GymManager.DataAcces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E1\UserName Parcial View\GymManager.DataAcces\obj\Debug\net6.0\GymManager.DataAcces.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E1\UserName Parcial View\GymManager.DataAcces\obj\Debug\net6.0\GymManager.DataAcces.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E1\UserName Parcial View\GymManager.DataAcces\obj\Debug\net6.0\GymManager.DataAcces.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E1\UserName Parcial View\GymManager.DataAcces\obj\Debug\net6.0\GymManager.DataAcces.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E1\UserName Parcial View\GymManager.DataAcces\obj\Debug\net6.0\refint\GymManager.DataAcces.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E1\UserName Parcial View\GymManager.DataAcces\obj\Debug\net6.0\GymManager.DataAcces.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E1\UserName Parcial View\GymManager.DataAcces\obj\Debug\net6.0\GymManager.DataAcces.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E1\UserName Parcial View\GymManager.DataAcces\obj\Debug\net6.0\ref\GymManager.DataAcces.dll
