@@ -1,0 +1,27 @@
+﻿@model GymManager.Web.Models.MembershipTypesListViewModel
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section HeaderRight{
+    <form class="d-flex mx-auto">
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-success bg-dark" type="submit">Search</button>
+    </form>
+}
+
+
+<div class="container">
+    <h1 class="mt-5">MEMBERSHIP TYPES</h1>
+
+    <div class="row">
+        <div class="col-6">
+            <p>Total memberships: @Model.MembershipTypeCount</p>
+        </div>
+        <div class="col-6">
+            <a asp-action="Create" class="btn btn-outline-success float-end">Add MembershipType</a>
+        </div>
+    </div>
+    @await Html.PartialAsync("~/Views/Shared/Components/_MembershipTypeList.cshtml", Model.MembershipTypes)
+</div>
