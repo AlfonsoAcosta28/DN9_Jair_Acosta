@@ -31,7 +31,7 @@ namespace Api.Exemple.Controllers
             .ToArray();
         }
 
-
+        
         [HttpPost(nameof(ByZone))]
         public ZoneWeatherForecast ByZone([FromBody]Zone zone)
         {
