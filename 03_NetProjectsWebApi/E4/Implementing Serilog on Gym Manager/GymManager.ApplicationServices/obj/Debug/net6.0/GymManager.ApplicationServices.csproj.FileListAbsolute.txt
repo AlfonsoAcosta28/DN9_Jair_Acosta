@@ -1,0 +1,120 @@
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T2\ParcialViews\GymManager.ApplicationServices\bin\Debug\net6.0\GymManager.ApplicationServices.deps.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T2\ParcialViews\GymManager.ApplicationServices\bin\Debug\net6.0\GymManager.ApplicationServices.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T2\ParcialViews\GymManager.ApplicationServices\bin\Debug\net6.0\GymManager.ApplicationServices.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T2\ParcialViews\GymManager.ApplicationServices\bin\Debug\net6.0\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T2\ParcialViews\GymManager.ApplicationServices\bin\Debug\net6.0\GymManager.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T2\ParcialViews\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T2\ParcialViews\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T2\ParcialViews\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T2\ParcialViews\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T2\ParcialViews\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T2\ParcialViews\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T2\ParcialViews\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T2\ParcialViews\GymManager.ApplicationServices\obj\Debug\net6.0\refint\GymManager.ApplicationServices.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T2\ParcialViews\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T2\ParcialViews\GymManager.ApplicationServices\obj\Debug\net6.0\ref\GymManager.ApplicationServices.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T3\MembersCrud\GymManager.ApplicationServices\bin\Debug\net6.0\GymManager.ApplicationServices.deps.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T3\MembersCrud\GymManager.ApplicationServices\bin\Debug\net6.0\GymManager.ApplicationServices.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T3\MembersCrud\GymManager.ApplicationServices\bin\Debug\net6.0\GymManager.ApplicationServices.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T3\MembersCrud\GymManager.ApplicationServices\bin\Debug\net6.0\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T3\MembersCrud\GymManager.ApplicationServices\bin\Debug\net6.0\GymManager.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T3\MembersCrud\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T3\MembersCrud\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T3\MembersCrud\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T3\MembersCrud\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T3\MembersCrud\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T3\MembersCrud\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T3\MembersCrud\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T3\MembersCrud\GymManager.ApplicationServices\obj\Debug\net6.0\refint\GymManager.ApplicationServices.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T3\MembersCrud\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T3\MembersCrud\GymManager.ApplicationServices\obj\Debug\net6.0\ref\GymManager.ApplicationServices.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T4\MembersCrudValidations\GymManager.ApplicationServices\bin\Debug\net6.0\GymManager.ApplicationServices.deps.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T4\MembersCrudValidations\GymManager.ApplicationServices\bin\Debug\net6.0\GymManager.ApplicationServices.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T4\MembersCrudValidations\GymManager.ApplicationServices\bin\Debug\net6.0\GymManager.ApplicationServices.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T4\MembersCrudValidations\GymManager.ApplicationServices\bin\Debug\net6.0\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T4\MembersCrudValidations\GymManager.ApplicationServices\bin\Debug\net6.0\GymManager.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T4\MembersCrudValidations\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T4\MembersCrudValidations\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T4\MembersCrudValidations\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T4\MembersCrudValidations\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T4\MembersCrudValidations\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T4\MembersCrudValidations\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T4\MembersCrudValidations\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T4\MembersCrudValidations\GymManager.ApplicationServices\obj\Debug\net6.0\refint\GymManager.ApplicationServices.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T4\MembersCrudValidations\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T4\MembersCrudValidations\GymManager.ApplicationServices\obj\Debug\net6.0\ref\GymManager.ApplicationServices.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T5\DynamicMenu\GymManager.ApplicationServices\bin\Debug\net6.0\GymManager.ApplicationServices.deps.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T5\DynamicMenu\GymManager.ApplicationServices\bin\Debug\net6.0\GymManager.ApplicationServices.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T5\DynamicMenu\GymManager.ApplicationServices\bin\Debug\net6.0\GymManager.ApplicationServices.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T5\DynamicMenu\GymManager.ApplicationServices\bin\Debug\net6.0\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T5\DynamicMenu\GymManager.ApplicationServices\bin\Debug\net6.0\GymManager.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T5\DynamicMenu\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T5\DynamicMenu\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T5\DynamicMenu\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T5\DynamicMenu\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T5\DynamicMenu\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T5\DynamicMenu\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T5\DynamicMenu\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T5\DynamicMenu\GymManager.ApplicationServices\obj\Debug\net6.0\refint\GymManager.ApplicationServices.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T5\DynamicMenu\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T5\DynamicMenu\GymManager.ApplicationServices\obj\Debug\net6.0\ref\GymManager.ApplicationServices.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T7\Authentication\GymManager.ApplicationServices\bin\Debug\net6.0\GymManager.ApplicationServices.deps.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T7\Authentication\GymManager.ApplicationServices\bin\Debug\net6.0\GymManager.ApplicationServices.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T7\Authentication\GymManager.ApplicationServices\bin\Debug\net6.0\GymManager.ApplicationServices.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T7\Authentication\GymManager.ApplicationServices\bin\Debug\net6.0\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T7\Authentication\GymManager.ApplicationServices\bin\Debug\net6.0\GymManager.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T7\Authentication\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T7\Authentication\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T7\Authentication\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T7\Authentication\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T7\Authentication\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T7\Authentication\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T7\Authentication\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T7\Authentication\GymManager.ApplicationServices\obj\Debug\net6.0\refint\GymManager.ApplicationServices.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T7\Authentication\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T7\Authentication\GymManager.ApplicationServices\obj\Debug\net6.0\ref\GymManager.ApplicationServices.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E1\UserName Parcial View\GymManager.ApplicationServices\bin\Debug\net6.0\GymManager.ApplicationServices.deps.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E1\UserName Parcial View\GymManager.ApplicationServices\bin\Debug\net6.0\GymManager.ApplicationServices.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E1\UserName Parcial View\GymManager.ApplicationServices\bin\Debug\net6.0\GymManager.ApplicationServices.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E1\UserName Parcial View\GymManager.ApplicationServices\bin\Debug\net6.0\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E1\UserName Parcial View\GymManager.ApplicationServices\bin\Debug\net6.0\GymManager.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E1\UserName Parcial View\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E1\UserName Parcial View\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E1\UserName Parcial View\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E1\UserName Parcial View\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E1\UserName Parcial View\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E1\UserName Parcial View\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E1\UserName Parcial View\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E1\UserName Parcial View\GymManager.ApplicationServices\obj\Debug\net6.0\refint\GymManager.ApplicationServices.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E1\UserName Parcial View\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E1\UserName Parcial View\GymManager.ApplicationServices\obj\Debug\net6.0\ref\GymManager.ApplicationServices.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E2\Creating Membership Types CRUD\GymManager.ApplicationServices\bin\Debug\net6.0\GymManager.ApplicationServices.deps.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E2\Creating Membership Types CRUD\GymManager.ApplicationServices\bin\Debug\net6.0\GymManager.ApplicationServices.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E2\Creating Membership Types CRUD\GymManager.ApplicationServices\bin\Debug\net6.0\GymManager.ApplicationServices.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E2\Creating Membership Types CRUD\GymManager.ApplicationServices\bin\Debug\net6.0\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E2\Creating Membership Types CRUD\GymManager.ApplicationServices\bin\Debug\net6.0\GymManager.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E2\Creating Membership Types CRUD\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E2\Creating Membership Types CRUD\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E2\Creating Membership Types CRUD\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E2\Creating Membership Types CRUD\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E2\Creating Membership Types CRUD\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E2\Creating Membership Types CRUD\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E2\Creating Membership Types CRUD\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E2\Creating Membership Types CRUD\GymManager.ApplicationServices\obj\Debug\net6.0\refint\GymManager.ApplicationServices.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E2\Creating Membership Types CRUD\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E2\Creating Membership Types CRUD\GymManager.ApplicationServices\obj\Debug\net6.0\ref\GymManager.ApplicationServices.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E4\Implementing Serilog on Gym Manager\GymManager.ApplicationServices\bin\Debug\net6.0\GymManager.ApplicationServices.deps.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E4\Implementing Serilog on Gym Manager\GymManager.ApplicationServices\bin\Debug\net6.0\GymManager.ApplicationServices.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E4\Implementing Serilog on Gym Manager\GymManager.ApplicationServices\bin\Debug\net6.0\GymManager.ApplicationServices.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E4\Implementing Serilog on Gym Manager\GymManager.ApplicationServices\bin\Debug\net6.0\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E4\Implementing Serilog on Gym Manager\GymManager.ApplicationServices\bin\Debug\net6.0\GymManager.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E4\Implementing Serilog on Gym Manager\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E4\Implementing Serilog on Gym Manager\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E4\Implementing Serilog on Gym Manager\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E4\Implementing Serilog on Gym Manager\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E4\Implementing Serilog on Gym Manager\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E4\Implementing Serilog on Gym Manager\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E4\Implementing Serilog on Gym Manager\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E4\Implementing Serilog on Gym Manager\GymManager.ApplicationServices\obj\Debug\net6.0\refint\GymManager.ApplicationServices.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E4\Implementing Serilog on Gym Manager\GymManager.ApplicationServices\obj\Debug\net6.0\GymManager.ApplicationServices.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E4\Implementing Serilog on Gym Manager\GymManager.ApplicationServices\obj\Debug\net6.0\ref\GymManager.ApplicationServices.dll
