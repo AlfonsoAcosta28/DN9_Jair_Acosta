@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T1\LinQ\Linq.Examples\Linq.Examples\bin\Debug\net6.0\Linq.Examples.exe
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T1\LinQ\Linq.Examples\Linq.Examples\bin\Debug\net6.0\Linq.Examples.deps.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T1\LinQ\Linq.Examples\Linq.Examples\bin\Debug\net6.0\Linq.Examples.runtimeconfig.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T1\LinQ\Linq.Examples\Linq.Examples\bin\Debug\net6.0\Linq.Examples.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T1\LinQ\Linq.Examples\Linq.Examples\bin\Debug\net6.0\Linq.Examples.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T1\LinQ\Linq.Examples\Linq.Examples\obj\Debug\net6.0\Linq.Examples.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T1\LinQ\Linq.Examples\Linq.Examples\obj\Debug\net6.0\Linq.Examples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T1\LinQ\Linq.Examples\Linq.Examples\obj\Debug\net6.0\Linq.Examples.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T1\LinQ\Linq.Examples\Linq.Examples\obj\Debug\net6.0\Linq.Examples.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T1\LinQ\Linq.Examples\Linq.Examples\obj\Debug\net6.0\Linq.Examples.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T1\LinQ\Linq.Examples\Linq.Examples\obj\Debug\net6.0\Linq.Examples.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T1\LinQ\Linq.Examples\Linq.Examples\obj\Debug\net6.0\refint\Linq.Examples.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T1\LinQ\Linq.Examples\Linq.Examples\obj\Debug\net6.0\Linq.Examples.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T1\LinQ\Linq.Examples\Linq.Examples\obj\Debug\net6.0\Linq.Examples.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T1\LinQ\Linq.Examples\Linq.Examples\obj\Debug\net6.0\ref\Linq.Examples.dll
