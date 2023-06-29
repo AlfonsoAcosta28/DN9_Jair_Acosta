@@ -1,0 +1,2 @@
+CALL GetProductsInStockByType(1);
+
