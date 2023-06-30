@@ -1,0 +1,28 @@
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.Core\bin\Debug\net6.0\DataAccess.Example.Core.deps.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.Core\bin\Debug\net6.0\DataAccess.Example.Core.runtimeconfig.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.Core\bin\Debug\net6.0\DataAccess.Example.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.Core\bin\Debug\net6.0\DataAccess.Example.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.Core\obj\Debug\net6.0\DataAccess.Example.Core.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.Core\obj\Debug\net6.0\DataAccess.Example.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.Core\obj\Debug\net6.0\DataAccess.Example.Core.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.Core\obj\Debug\net6.0\DataAccess.Example.Core.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.Core\obj\Debug\net6.0\DataAccess.Example.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.Core\obj\Debug\net6.0\DataAccess.Example.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.Core\obj\Debug\net6.0\refint\DataAccess.Example.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.Core\obj\Debug\net6.0\DataAccess.Example.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.Core\obj\Debug\net6.0\DataAccess.Example.Core.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.Core\obj\Debug\net6.0\ref\DataAccess.Example.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.Core\bin\Debug\net6.0\DataAccess.Example.Core.deps.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.Core\bin\Debug\net6.0\DataAccess.Example.Core.runtimeconfig.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.Core\bin\Debug\net6.0\DataAccess.Example.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.Core\bin\Debug\net6.0\DataAccess.Example.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.Core\obj\Debug\net6.0\DataAccess.Example.Core.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.Core\obj\Debug\net6.0\DataAccess.Example.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.Core\obj\Debug\net6.0\DataAccess.Example.Core.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.Core\obj\Debug\net6.0\DataAccess.Example.Core.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.Core\obj\Debug\net6.0\DataAccess.Example.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.Core\obj\Debug\net6.0\DataAccess.Example.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.Core\obj\Debug\net6.0\refint\DataAccess.Example.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.Core\obj\Debug\net6.0\DataAccess.Example.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.Core\obj\Debug\net6.0\DataAccess.Example.Core.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.Core\obj\Debug\net6.0\ref\DataAccess.Example.Core.dll
