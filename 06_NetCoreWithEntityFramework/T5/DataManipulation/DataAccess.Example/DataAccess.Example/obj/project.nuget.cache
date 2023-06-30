@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8Sx8K+t6hP6FZiNahQOPce/boo1fh3cgholUKNUAl/rrwTSr/7ha3MC5MtKbblC9oFI5pJLCxC7jnG2YeMUZaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Documents\\GitHub\\DN9_Jair_Acosta\\06_NetCoreWithEntityFramework\\T5\\DataManipulation\\DataAccess.Example\\DataAccess.Example\\DataAccess.Example.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\mysqlconnector\\2.2.6\\mysqlconnector.2.2.6.nupkg.sha512"
+  ],
+  "logs": []
+}
