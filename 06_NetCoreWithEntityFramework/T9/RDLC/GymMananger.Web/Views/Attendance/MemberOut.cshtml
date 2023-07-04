@@ -1,0 +1,64 @@
+﻿@{
+
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+
+@section Scripts{
+
+    <script src="~/javascript/eventos.js"></script>
+
+    <script src="~/BootsTrap/js/bootstrap.min.js"></script>
+
+}
+<head>
+    
+    <style>
+        .bd-placeholder-img {
+            font-size: 1.125rem;
+            text-anchor: middle;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            user-select: none;
+        }
+
+        @@media (min-width: 768px) {
+            .bd-placeholder-img-lg {
+                font-size: 3.5rem;
+            }
+        }
+
+        main > .container {
+            padding: 60px 15px 0;
+        }
+
+        .logo {
+            width: 5vh;
+            height: 5vh;
+        }
+    </style>
+
+
+</head>
+    <!-- Begin page content -->
+    <main class="flex-shrink-0">
+        <div class="container">
+            <h1 class="mt-5">MEMBER OUT</h1>
+            <form>
+                <div class="mb-3">
+                    <label for="memberId" class="form-label">Identificador del miembro</label>
+                    <input type="text" class="form-control" id="memberId" name="memberId" placeholder="Ingrese el identificador del miembro"/>
+
+                </div>
+
+                <button id="btnMemberInOut" type="submit" class="btn btn-dark MemberOut">Aceptar</button>
+            </form>
+        </div>
+    </main>
+
+    <div class="modal__out MemberOut">
+        @{
+            Html.RenderPartial("~/Views/Shared/Modal.cshtml");
+        }
+
+    </div>
