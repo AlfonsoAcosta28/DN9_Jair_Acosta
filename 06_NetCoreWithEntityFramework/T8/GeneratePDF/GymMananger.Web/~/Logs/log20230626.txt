@@ -1,0 +1,32 @@
+2023-06-26 18:56:41.839 -06:00 [INF] Se ejecutó la acción Index del controlador Members.
+2023-06-26 18:56:42.329 -06:00 [INF] Se ejecutó la acción Index del controlador Members.
+2023-06-26 18:58:12.313 -06:00 [INF] Se ejecutó la acción Index del controlador Members.
+2023-06-26 18:58:12.617 -06:00 [INF] Se ejecutó la acción Index del controlador Members.
+2023-06-26 18:58:38.741 -06:00 [INF] Se ejecutó la acción Index del controlador Members.
+2023-06-26 18:58:39.041 -06:00 [INF] Se ejecutó la acción Index del controlador Members.
+2023-06-26 18:58:41.520 -06:00 [INF] Se ejecutó la acción Index del controlador Members.
+2023-06-26 18:58:41.667 -06:00 [INF] Se ejecutó la acción Index del controlador Members.
+2023-06-26 18:58:42.402 -06:00 [INF] Se ejecutó la acción Index del controlador Members.
+2023-06-26 18:58:42.574 -06:00 [INF] Se ejecutó la acción Index del controlador Members.
+2023-06-26 19:02:32.207 -06:00 [FTL] Application startup exception
+System.InvalidOperationException: Unable to resolve service for type 'Serilog.Extensions.Hosting.DiagnosticContext' while attempting to activate 'Serilog.AspNetCore.RequestLoggingMiddleware'.
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass5_0.<UseMiddleware>b__0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.<ConfigureApplication>b__27_0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+2023-06-26 19:03:05.249 -06:00 [FTL] Application startup exception
+System.InvalidOperationException: Unable to resolve service for type 'Serilog.Extensions.Hosting.DiagnosticContext' while attempting to activate 'Serilog.AspNetCore.RequestLoggingMiddleware'.
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass5_0.<UseMiddleware>b__0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.<ConfigureApplication>b__27_0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+2023-06-26 19:03:38.123 -06:00 [INF] Se ejecutó la acción Index del controlador Members.
+2023-06-26 19:03:38.464 -06:00 [INF] Se ejecutó la acción Index del controlador Members.
+2023-06-26 19:03:51.771 -06:00 [INF] Se ejecutó la acción Index del controlador Members.
+2023-06-26 19:03:51.899 -06:00 [INF] Se ejecutó la acción Index del controlador Members.
