@@ -1,0 +1,10 @@
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T9\RDLC\GymManager.Report.Desing\bin\Debug\GymManager.Report.Desing.exe.config
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T9\RDLC\GymManager.Report.Desing\bin\Debug\GymManager.Report.Desing.exe
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T9\RDLC\GymManager.Report.Desing\bin\Debug\GymManager.Report.Desing.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T9\RDLC\GymManager.Report.Desing\obj\Debug\GymManager.Report.Desing.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T9\RDLC\GymManager.Report.Desing\obj\Debug\GymManager.Report.Desing.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T9\RDLC\GymManager.Report.Desing\obj\Debug\GymManager.Report.Desing.Properties.Resources.resources
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T9\RDLC\GymManager.Report.Desing\obj\Debug\GymManager.Report.Desing.csproj.GenerateResource.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T9\RDLC\GymManager.Report.Desing\obj\Debug\GymManager.Report.Desing.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T9\RDLC\GymManager.Report.Desing\obj\Debug\GymManager.Report.Desing.exe
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T9\RDLC\GymManager.Report.Desing\obj\Debug\GymManager.Report.Desing.pdb
