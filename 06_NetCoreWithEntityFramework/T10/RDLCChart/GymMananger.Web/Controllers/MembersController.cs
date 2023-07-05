@@ -12,7 +12,6 @@ namespace GymManager.Web.Controllers
     public class MembersController : Controller
     {
         private readonly IMembersAppService _membersAppService;
-        readonly IDiagnosticContext _diagnosticContext;
 
         public MembersController(IMembersAppService membersAppService) { 
             this._membersAppService = membersAppService;
