@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yOJ9f312TaqGojQE4ygYecPNCYWBsdfMMwwoy0AK7dA=",
+  "Source": "SPsGymManager.WebApi",
+  "BasePath": "_content/SPsGymManager.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
