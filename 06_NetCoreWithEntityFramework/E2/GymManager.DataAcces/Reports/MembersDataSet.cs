@@ -1,0 +1,3 @@
+﻿namespace GymManager.DataAcces.Reports
+{
+}
