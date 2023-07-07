@@ -1,0 +1,55 @@
+﻿@model GymManager.Web.Models.UserViewModel
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@section Head{
+    <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+    <link href="~/lib/jqueryui/jquery-ui.min.css" rel="stylesheet" />
+    <link href="~/lib/jqueryui/jquery-ui.structure.min.css" rel="stylesheet" />
+    <link href="~/lib/jqueryui/jquery-ui.theme.min.css" rel="stylesheet" />
+}
+@section Scripts{
+    <script src="https://code.jquery.com/jquery-3.7.0.min.js" integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" crossorigin="anonymous"></script>
+
+    <script src="~/lib/jqueryui/jquery-ui.min.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.1/jquery.validate.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.11/jquery.validate.unobtrusive.min.js"></script>
+
+    <!--<script src="~/Views/Users/Create.js"></script>-->
+}
+
+<div class="container">
+    <h3 class="mt-5">Update User</h3>
+
+    <form asp-action="Edit">
+        <input type="hidden" asp-for="Id"/>
+        <div asp-validation-summary="All" class="text-danger"></div>
+        <div class="mb-3">
+            <label asp-for="UserName" class="form-label">Email</label>
+            <input type="email" class="form-control" asp-for="UserName" readonly>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="PhoneNumber" class="form-label">Phone Number</label>
+            <input type="tel" class="form-control" asp-for="PhoneNumber">
+            <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Password" class="form-label">Password</label>
+            <input type="password" class="form-control" asp-for="Password">
+            <span asp-validation-for="Password" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label for="confirm-password" class="form-label">Confirm Password</label>
+            <input type="password" class="form-control" id="confirm-password" name="confirm-password"
+                   data-val="true"
+                   data-val-required="Confirm Password field is required" maxlength="100"
+                   data-val-confirmpassword="Password missmarch">
+            <span class="text-danger fiel-validation-valid" data-valmsg-for="confirm-password" data-valmsg-replace="true"></span>
+        </div>
+
+        <button class="btn btn-primary mb-3" type="submit">Submit</button>
+    </form>
+</div>
