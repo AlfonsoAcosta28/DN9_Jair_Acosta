@@ -1,0 +1,69 @@
+﻿
+@model GymManager.Core.MembershipTypes.MembershipType
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@section Head{
+    <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+    <link href="~/lib/jqueryui/jquery-ui.min.css" rel="stylesheet" />
+    <link href="~/lib/jqueryui/jquery-ui.structure.min.css" rel="stylesheet" />
+    <link href="~/lib/jqueryui/jquery-ui.theme.min.css" rel="stylesheet" />
+}
+@section Scripts{
+    <script src="https://code.jquery.com/jquery-3.7.0.min.js" integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+    <script src="~/lib/jqueryui/jquery-ui.min.js"></script>
+    <script src="~/views/membershiptypes/create.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.1/jquery.validate.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.11/jquery.validate.unobtrusive.js"></script>
+
+}
+<div class="container">
+    <div class="row">
+        <div class="col-6">
+
+            <h3 class="mt-5">Edit Membership Type</h3>
+        </div>
+        <div class="col-6">
+            <a asp-action="Index" class="btn btn-outline-info float-end">Back</a>
+        </div>
+    </div>
+
+    <form asp-action="Edit">
+
+        <input type="hidden" asp-for="Id" />
+
+        <div class="mb-3">
+            <label asp-for="Name" class="form-label">Name</label>
+            <input type="text" class="form-control" asp-for="Name">
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Cost" class="form-label">Cost</label>
+            <input type="number" class="form-control" asp-for="Cost" step="0.01">
+            <span asp-validation-for="Cost" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Duration" class="form-label">Duration (In Months)</label>
+            <select class="form-control" asp-for="Duration">
+                @for (int i = 1; i <= 12; i++)
+                {
+                    <option value="@i">@i</option>
+                }
+            </select>
+            <span asp-validation-for="Duration" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="CreatedOn" class="form-label">Created On</label>
+            <input type="text" class="form-control" asp-for="CreatedOn" id="createdOn" readonly>
+            <span asp-validation-for="CreatedOn" class="text-danger"></span>
+        </div>
+
+        <button class="btn btn-primary mb-3" type="submit">Submit</button>
+    </form>
+</div>
+</div>

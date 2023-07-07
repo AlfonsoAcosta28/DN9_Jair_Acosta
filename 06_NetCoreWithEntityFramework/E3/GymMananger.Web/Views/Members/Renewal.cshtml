@@ -1,0 +1,38 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section Scripts{
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="~/javascript/renewal.js"></script>
+
+}
+
+<div class="container">
+    <h1 class="mt-5">RENEWAL</h1>
+
+        <div class="mb-3">
+            <label for="memberId" class="form-label">Identificador del miembro</label>
+            <input type="text" class="form-control" id="memberId" name="memberId" placeholder="Ingrese el identificador del miembro">
+        </div>
+    <button onclick="buscarMiembro()" class="btn btn-dark" id="MemberSearch">SEARCH</button>
+
+
+    <div id="miembroNoEncontrado" class="text-danger mb-3"></div>
+
+
+    <div class="modal__in Member">
+        @{
+            Html.RenderPartial("~/Views/Shared/Modal.cshtml");
+        }
+    </div>
+
+    <div>
+        <label for="membershipTypeSelect">Seleccionar tipo de membresía:</label>
+        <select id="membershipTypeSelect" class="form-control"></select>
+    </div>
+
+</div>
+
+

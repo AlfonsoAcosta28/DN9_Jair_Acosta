@@ -1,0 +1,32 @@
+﻿@{
+
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+
+@section Scripts{
+
+    <script src="~/javascript/eventos.js"></script>
+
+
+}
+    <!-- Begin page content -->
+        <div class="container">
+            <h1 class="mt-5">MEMBER OUT</h1>
+            <form>
+                <div class="mb-3">
+                    <label for="memberId" class="form-label">Identificador del miembro</label>
+                    <input type="text" class="form-control" id="memberId" name="memberId" placeholder="Ingrese el identificador del miembro"/>
+
+                </div>
+
+                <button id="btnMemberInOut" type="submit" class="btn btn-dark MemberOut">Aceptar</button>
+            </form>
+        </div>
+
+    <div class="modal__out MemberOut">
+        @{
+            Html.RenderPartial("~/Views/Shared/Modal.cshtml");
+        }
+
+    </div>
