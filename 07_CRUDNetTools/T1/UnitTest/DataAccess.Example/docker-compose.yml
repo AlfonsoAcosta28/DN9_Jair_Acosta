@@ -1,0 +1,32 @@
+version: '3.4'
+
+networks:
+  demobladorapp:
+
+services:
+  demoappdb:
+    container_name: app-db
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    ports:
+      - 8002:1433
+    environment: 
+     - ACCEPT_EULA=Y
+     - MSSQL_SA_PASSWORD=1234
+    networks:
+        - demobladorapp
+  dataaccess.example.webapi:
+    container_name: demo-blazor-app 
+    image: ${DOCKER_REGISTRY-}dataaccessexamplewebapi
+    build:
+      context: .
+      dockerfile: DataAccess.Example.WebApi/Dockerfile
+    ports:
+        - 8001:80
+    depends_on: 
+        - demoappdb
+    environment: 
+        - DB_HOST=demoappdb
+        - DB_NAME=vehiclesef
+        - DB_SA_PASSWORD=1234
+    networks:
+        - demobladorapp

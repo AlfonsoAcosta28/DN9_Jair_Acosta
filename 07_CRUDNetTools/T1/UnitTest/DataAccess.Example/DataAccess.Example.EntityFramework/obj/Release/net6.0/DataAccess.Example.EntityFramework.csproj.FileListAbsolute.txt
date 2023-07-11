@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.EntityFramework\bin\Release\net6.0\DataAccess.Example.EntityFramework.deps.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.EntityFramework\bin\Release\net6.0\DataAccess.Example.EntityFramework.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.EntityFramework\bin\Release\net6.0\DataAccess.Example.EntityFramework.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.EntityFramework\bin\Release\net6.0\DataAccess.Example.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.EntityFramework\bin\Release\net6.0\DataAccess.Example.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.EntityFramework\obj\Release\net6.0\DataAccess.Example.EntityFramework.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.EntityFramework\obj\Release\net6.0\DataAccess.Example.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.EntityFramework\obj\Release\net6.0\DataAccess.Example.EntityFramework.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.EntityFramework\obj\Release\net6.0\DataAccess.Example.EntityFramework.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.EntityFramework\obj\Release\net6.0\DataAccess.Example.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.EntityFramework\obj\Release\net6.0\DataAccess.Example.EntityFramework.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.EntityFramework\obj\Release\net6.0\DataAccess.Example.EntityFramework.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.EntityFramework\obj\Release\net6.0\refint\DataAccess.Example.EntityFramework.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.EntityFramework\obj\Release\net6.0\DataAccess.Example.EntityFramework.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.EntityFramework\obj\Release\net6.0\ref\DataAccess.Example.EntityFramework.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bN43+4CxM1VEz3yFS3TogfYj/HpXiVBmKiKqumLXBWCUBpn7ryWVS+6Mlah9CVDk8zlvmA3+kEe0c91kFwKqfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Documents\\GitHub\\DN9_Jair_Acosta\\07_CRUDNetTools\\T1\\UnitTest\\DataAccess.Example\\DataAccess.Example\\DataAccess.Example.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\mysqlconnector\\2.2.6\\mysqlconnector.2.2.6.nupkg.sha512"
+  ],
+  "logs": []
+}
