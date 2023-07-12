@@ -1,0 +1,259 @@
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\DataAccess.Example.WebApi.exe
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\DataAccess.Example.WebApi.deps.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\DataAccess.Example.WebApi.runtimeconfig.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\DataAccess.Example.WebApi.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\DataAccess.Example.WebApi.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\DataAccess.Example.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\DataAccess.Example.EntityFramework.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\DataAccess.Example.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\DataAccess.Example.EntityFramework.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.DataAccess.Example.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.DataAccess.Example.WebApi.props
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DataAccess.Example.WebApi.props
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DataAccess.Example.WebApi.props
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\scopedcss\bundle\DataAccess.Example.WebApi.styles.css
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\refint\DataAccess.Example.WebApi.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T3\EntityFrameworkDesign\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\ref\DataAccess.Example.WebApi.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\DataAccess.Example.WebApi.exe
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\DataAccess.Example.WebApi.deps.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\DataAccess.Example.WebApi.runtimeconfig.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\DataAccess.Example.WebApi.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\DataAccess.Example.WebApi.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\DataAccess.Example.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\DataAccess.Example.EntityFramework.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\DataAccess.Example.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\DataAccess.Example.EntityFramework.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.DataAccess.Example.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.DataAccess.Example.WebApi.props
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DataAccess.Example.WebApi.props
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DataAccess.Example.WebApi.props
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\scopedcss\bundle\DataAccess.Example.WebApi.styles.css
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\refint\DataAccess.Example.WebApi.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\ref\DataAccess.Example.WebApi.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T4\EntityFramework Linq\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T5\DataManipulation\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T5\DataManipulation\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T5\DataManipulation\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\DataAccess.Example.WebApi.exe
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T5\DataManipulation\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\DataAccess.Example.WebApi.deps.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T5\DataManipulation\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\DataAccess.Example.WebApi.runtimeconfig.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T5\DataManipulation\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\DataAccess.Example.WebApi.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T5\DataManipulation\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\DataAccess.Example.WebApi.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T5\DataManipulation\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T5\DataManipulation\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T5\DataManipulation\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T5\DataManipulation\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T5\DataManipulation\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T5\DataManipulation\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T5\DataManipulation\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T5\DataManipulation\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T5\DataManipulation\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T5\DataManipulation\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T5\DataManipulation\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T5\DataManipulation\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T5\DataManipulation\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T5\DataManipulation\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T5\DataManipulation\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T5\DataManipulation\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T5\DataManipulation\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T5\DataManipulation\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T5\DataManipulation\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\DataAccess.Example.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T5\DataManipulation\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\DataAccess.Example.EntityFramework.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T5\DataManipulation\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\DataAccess.Example.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T5\DataManipulation\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\DataAccess.Example.EntityFramework.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T5\DataManipulation\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T5\DataManipulation\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T5\DataManipulation\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T5\DataManipulation\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T5\DataManipulation\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T5\DataManipulation\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T5\DataManipulation\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T5\DataManipulation\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.DataAccess.Example.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T5\DataManipulation\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.DataAccess.Example.WebApi.props
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T5\DataManipulation\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DataAccess.Example.WebApi.props
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T5\DataManipulation\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DataAccess.Example.WebApi.props
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T5\DataManipulation\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T5\DataManipulation\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T5\DataManipulation\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T5\DataManipulation\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\scopedcss\bundle\DataAccess.Example.WebApi.styles.css
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T5\DataManipulation\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T5\DataManipulation\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T5\DataManipulation\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\refint\DataAccess.Example.WebApi.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T5\DataManipulation\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T5\DataManipulation\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T5\DataManipulation\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\ref\DataAccess.Example.WebApi.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\DataAccess.Example.WebApi.exe
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\DataAccess.Example.WebApi.deps.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\DataAccess.Example.WebApi.runtimeconfig.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\DataAccess.Example.WebApi.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\DataAccess.Example.WebApi.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\DataAccess.Example.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\DataAccess.Example.EntityFramework.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\DataAccess.Example.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\DataAccess.Example.EntityFramework.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.DataAccess.Example.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.DataAccess.Example.WebApi.props
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DataAccess.Example.WebApi.props
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DataAccess.Example.WebApi.props
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\scopedcss\bundle\DataAccess.Example.WebApi.styles.css
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\refint\DataAccess.Example.WebApi.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T1\UnitTest\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\ref\DataAccess.Example.WebApi.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\DataAccess.Example.WebApi.exe
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\DataAccess.Example.WebApi.deps.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\DataAccess.Example.WebApi.runtimeconfig.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\DataAccess.Example.WebApi.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\DataAccess.Example.WebApi.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\DataAccess.Example.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\DataAccess.Example.EntityFramework.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\DataAccess.Example.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\DataAccess.Example.EntityFramework.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.DataAccess.Example.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.DataAccess.Example.WebApi.props
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DataAccess.Example.WebApi.props
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DataAccess.Example.WebApi.props
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\scopedcss\bundle\DataAccess.Example.WebApi.styles.css
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\refint\DataAccess.Example.WebApi.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\DataAccess.Example.WebApi.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\obj\Debug\net6.0\ref\DataAccess.Example.WebApi.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\appsettings.Production.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Serilog.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T2\WebApiErrorHandling\DataAccess.Example\DataAccess.Example.WebApi\bin\Debug\net6.0\Serilog.Sinks.File.dll

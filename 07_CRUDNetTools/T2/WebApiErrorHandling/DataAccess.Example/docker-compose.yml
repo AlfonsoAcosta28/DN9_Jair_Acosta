@@ -1,0 +1,26 @@
+version: '3.4'
+
+networks:
+  demobladorapp:
+
+services:
+  demoappdb:
+    container_name: app-db
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    ports:
+      - 8002:1433
+    environment: 
+     - ACCEPT_EULA=Y
+     - MSSQL_SA_PASSWORD=1234
+    networks:
+        - demobladorapp
+  dataaccess.example.webapi:
+    image: ${DOCKER_REGISTRY-}dataaccessexamplewebapi
+    build:
+      context: .
+      dockerfile: DataAccess.Example.WebApi/Dockerfile
+    environment: 
+        - ASPNETCORE_ENVIRONMENT=Development
+        - ASPNETCORE_URLS=https://+:443;http://+:80
+    volumes:
+        - ${APPDTA}/ASP.NET/Https:/root/.aspnet/https:ro
