@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1PMc9t2ie35gZU4fA2Ul/FLgIcqTwBTqIeLFoITbH9k=",
+  "Source": "ATOS.Api",
+  "BasePath": "_content/ATOS.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

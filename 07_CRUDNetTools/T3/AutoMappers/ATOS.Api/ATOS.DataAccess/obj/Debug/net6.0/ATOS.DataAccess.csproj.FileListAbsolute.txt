@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T3\AutoMappers\ATOS.Api\ATOS.DataAccess\bin\Debug\net6.0\ATOS.DataAccess.deps.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T3\AutoMappers\ATOS.Api\ATOS.DataAccess\bin\Debug\net6.0\ATOS.DataAccess.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T3\AutoMappers\ATOS.Api\ATOS.DataAccess\bin\Debug\net6.0\ATOS.DataAccess.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T3\AutoMappers\ATOS.Api\ATOS.DataAccess\bin\Debug\net6.0\ATOS.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T3\AutoMappers\ATOS.Api\ATOS.DataAccess\bin\Debug\net6.0\ATOS.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T3\AutoMappers\ATOS.Api\ATOS.DataAccess\obj\Debug\net6.0\ATOS.DataAccess.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T3\AutoMappers\ATOS.Api\ATOS.DataAccess\obj\Debug\net6.0\ATOS.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T3\AutoMappers\ATOS.Api\ATOS.DataAccess\obj\Debug\net6.0\ATOS.DataAccess.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T3\AutoMappers\ATOS.Api\ATOS.DataAccess\obj\Debug\net6.0\ATOS.DataAccess.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T3\AutoMappers\ATOS.Api\ATOS.DataAccess\obj\Debug\net6.0\ATOS.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T3\AutoMappers\ATOS.Api\ATOS.DataAccess\obj\Debug\net6.0\ATOS.DataAccess.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T3\AutoMappers\ATOS.Api\ATOS.DataAccess\obj\Debug\net6.0\ATOS.DataAccess.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T3\AutoMappers\ATOS.Api\ATOS.DataAccess\obj\Debug\net6.0\refint\ATOS.DataAccess.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T3\AutoMappers\ATOS.Api\ATOS.DataAccess\obj\Debug\net6.0\ATOS.DataAccess.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T3\AutoMappers\ATOS.Api\ATOS.DataAccess\obj\Debug\net6.0\ref\ATOS.DataAccess.dll

@@ -1,0 +1,12 @@
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T3\AutoMappers\ATOS.Api\ATOS.Core\bin\Debug\net6.0\ATOS.Core.deps.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T3\AutoMappers\ATOS.Api\ATOS.Core\bin\Debug\net6.0\ATOS.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T3\AutoMappers\ATOS.Api\ATOS.Core\bin\Debug\net6.0\ATOS.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T3\AutoMappers\ATOS.Api\ATOS.Core\obj\Debug\net6.0\ATOS.Core.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T3\AutoMappers\ATOS.Api\ATOS.Core\obj\Debug\net6.0\ATOS.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T3\AutoMappers\ATOS.Api\ATOS.Core\obj\Debug\net6.0\ATOS.Core.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T3\AutoMappers\ATOS.Api\ATOS.Core\obj\Debug\net6.0\ATOS.Core.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T3\AutoMappers\ATOS.Api\ATOS.Core\obj\Debug\net6.0\ATOS.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T3\AutoMappers\ATOS.Api\ATOS.Core\obj\Debug\net6.0\ATOS.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T3\AutoMappers\ATOS.Api\ATOS.Core\obj\Debug\net6.0\refint\ATOS.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T3\AutoMappers\ATOS.Api\ATOS.Core\obj\Debug\net6.0\ATOS.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T3\AutoMappers\ATOS.Api\ATOS.Core\obj\Debug\net6.0\ref\ATOS.Core.dll
