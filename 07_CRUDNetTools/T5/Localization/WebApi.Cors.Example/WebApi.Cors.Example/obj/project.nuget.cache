@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "v4x2LkAk9if6P32F8L7UuDmG0uXYxXt23oAm5WsX1YN28TEVBu4+CuOS7ruJTIPjjVTz3GpCv6ucpUmBoXydfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Documents\\GitHub\\DN9_Jair_Acosta\\07_CRUDNetTools\\T5\\Localization\\WebApi.Cors.Example\\WebApi.Cors.Example\\WebApi.Cors.Example.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

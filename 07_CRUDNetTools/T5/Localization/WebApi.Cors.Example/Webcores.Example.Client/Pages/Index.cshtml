@@ -1,0 +1,16 @@
+﻿@page
+@using Microsoft.AspNetCore.Mvc.Localization;
+@using Microsoft.Extensions.Localization;
+@model IndexModel
+@inject IStringLocalizer<IndexModel> localizer;
+@inject IHtmlLocalizer<IndexModel> htmlLocalizer;
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">@localizer.GetString("Welcome")</h1>
+    @htmlLocalizer.GetHtml("LearnAbout")
+
+    <h1 class="alert-success">@ViewData["ResultMessage"]</h1>
+</div>
