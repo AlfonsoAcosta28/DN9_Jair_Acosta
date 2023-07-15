@@ -1,0 +1,12 @@
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Shared\bin\Debug\net6.0\WebApi.Shared.deps.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Shared\bin\Debug\net6.0\WebApi.Shared.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Shared\bin\Debug\net6.0\WebApi.Shared.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Shared\obj\Debug\net6.0\WebApi.Shared.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Shared\obj\Debug\net6.0\WebApi.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Shared\obj\Debug\net6.0\WebApi.Shared.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Shared\obj\Debug\net6.0\WebApi.Shared.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Shared\obj\Debug\net6.0\WebApi.Shared.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Shared\obj\Debug\net6.0\WebApi.Shared.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Shared\obj\Debug\net6.0\refint\WebApi.Shared.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Shared\obj\Debug\net6.0\WebApi.Shared.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Shared\obj\Debug\net6.0\ref\WebApi.Shared.dll

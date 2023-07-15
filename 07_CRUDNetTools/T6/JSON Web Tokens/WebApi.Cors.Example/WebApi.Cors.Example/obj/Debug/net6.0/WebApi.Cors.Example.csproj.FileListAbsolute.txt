@@ -1,0 +1,121 @@
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T4\Cors\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T4\Cors\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T4\Cors\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\WebApi.Cors.Example.exe
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T4\Cors\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\WebApi.Cors.Example.deps.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T4\Cors\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\WebApi.Cors.Example.runtimeconfig.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T4\Cors\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\WebApi.Cors.Example.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T4\Cors\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\WebApi.Cors.Example.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T4\Cors\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T4\Cors\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T4\Cors\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T4\Cors\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T4\Cors\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\WebApi.Cors.Example.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T4\Cors\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\WebApi.Cors.Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T4\Cors\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\WebApi.Cors.Example.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T4\Cors\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\WebApi.Cors.Example.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T4\Cors\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\WebApi.Cors.Example.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T4\Cors\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\WebApi.Cors.Example.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T4\Cors\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\WebApi.Cors.Example.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T4\Cors\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\staticwebassets\msbuild.WebApi.Cors.Example.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T4\Cors\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApi.Cors.Example.props
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T4\Cors\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.Cors.Example.props
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T4\Cors\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApi.Cors.Example.props
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T4\Cors\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T4\Cors\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T4\Cors\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T4\Cors\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\scopedcss\bundle\WebApi.Cors.Example.styles.css
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T4\Cors\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\WebApi.Cors.Example.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T4\Cors\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\WebApi.Cors.Example.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T4\Cors\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\refint\WebApi.Cors.Example.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T4\Cors\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\WebApi.Cors.Example.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T4\Cors\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\WebApi.Cors.Example.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T4\Cors\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\ref\WebApi.Cors.Example.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T5\Localization\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T5\Localization\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T5\Localization\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\WebApi.Cors.Example.exe
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T5\Localization\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\WebApi.Cors.Example.deps.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T5\Localization\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\WebApi.Cors.Example.runtimeconfig.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T5\Localization\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\WebApi.Cors.Example.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T5\Localization\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\WebApi.Cors.Example.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T5\Localization\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T5\Localization\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T5\Localization\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T5\Localization\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T5\Localization\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\WebApi.Cors.Example.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T5\Localization\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\WebApi.Cors.Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T5\Localization\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\WebApi.Cors.Example.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T5\Localization\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\WebApi.Cors.Example.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T5\Localization\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\WebApi.Cors.Example.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T5\Localization\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\WebApi.Cors.Example.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T5\Localization\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\WebApi.Cors.Example.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T5\Localization\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\staticwebassets\msbuild.WebApi.Cors.Example.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T5\Localization\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApi.Cors.Example.props
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T5\Localization\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.Cors.Example.props
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T5\Localization\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApi.Cors.Example.props
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T5\Localization\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T5\Localization\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T5\Localization\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T5\Localization\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\scopedcss\bundle\WebApi.Cors.Example.styles.css
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T5\Localization\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\WebApi.Cors.Example.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T5\Localization\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\WebApi.Cors.Example.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T5\Localization\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\refint\WebApi.Cors.Example.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T5\Localization\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\WebApi.Cors.Example.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T5\Localization\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\WebApi.Cors.Example.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T5\Localization\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\ref\WebApi.Cors.Example.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\WebApi.Cors.Example.exe
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\WebApi.Cors.Example.deps.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\WebApi.Cors.Example.runtimeconfig.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\WebApi.Cors.Example.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\WebApi.Cors.Example.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\Humanizer.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\WebApi.Shared.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\WebApi.Shared.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\WebApi.Cors.Example.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\WebApi.Cors.Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\WebApi.Cors.Example.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\WebApi.Cors.Example.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\WebApi.Cors.Example.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\WebApi.Cors.Example.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\WebApi.Cors.Example.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\staticwebassets\msbuild.WebApi.Cors.Example.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApi.Cors.Example.props
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.Cors.Example.props
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApi.Cors.Example.props
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\scopedcss\bundle\WebApi.Cors.Example.styles.css
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\WebApi.Cors.Example.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\WebApi.Cors.Example.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\refint\WebApi.Cors.Example.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\WebApi.Cors.Example.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\WebApi.Cors.Example.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\ref\WebApi.Cors.Example.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\T6\JSON Web Tokens\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
