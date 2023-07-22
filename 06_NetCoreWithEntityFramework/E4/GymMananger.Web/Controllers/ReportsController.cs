@@ -1,9 +1,14 @@
-﻿using GymManager.Core.MembershipTypes;
+﻿using GymManager.Core.Entities;
+using GymManager.Core.Members;
+using GymManager.Core.MembershipTypes;
 using GymManager.DataAcces;
 using GymManager.DataAcces.Reports;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Reporting.NETCore;
+using System.Globalization;
+using System.Linq;
+using System.Xml.Linq;
 using Wkhtmltopdf.NetCore;
 
 namespace GymManager.Web.Controllers
@@ -13,6 +18,7 @@ namespace GymManager.Web.Controllers
         private readonly IGeneratePdf _generatePdf;
         private readonly IWebHostEnvironment _enviroment;
         private readonly ApiController apiController;
+        private readonly QuerysController queryController;
         public ReportsController(IGeneratePdf generatePdf, IWebHostEnvironment webHostEnvironment, GymManagerContext gymManager)
         {
             _generatePdf = generatePdf;
@@ -79,39 +85,59 @@ namespace GymManager.Web.Controllers
 
             AttendanceDataSet dataSet = new AttendanceDataSet();
             
-            Random random = new Random();
+            List<Attendance> attendances = apiController.GetAttendances();
 
-            List<MembershipType> membershipTypes = apiController.GetMembershipTypes();
+            DateTime firstDayOfMonth = new DateTime(DateTime.Now.Year, DateTime.Now.Month, 1);
+            DateTime lastDayOfMonth = firstDayOfMonth.AddMonths(1).AddDays(-1);
+            var attendancesThisMonth = attendances.Where(a => a.CheckIn >= firstDayOfMonth && a.CheckIn <= lastDayOfMonth).ToList();
 
-            string[] names = new string[] { "Jair", "Luis", "Gina", "Diana", "Jonathan", "Maria", "Pedro", "Ana", "Carlos", "Laura", "Diego", "Sofia", "Daniel", "Valeria", "Alejandro", "Camila", "Fernando", "Isabella", "Miguel", "Natalia" };
-            string[] lastnames = new string[] { "Acosta", "Duran", "Gonzales", "Lopez", "Perez", "Rodriguez", "Garcia", "Martinez", "Fernandez", "Sanchez" };
-            string[] daysOfWeek = { "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" };
+            Dictionary<int, List<Attendance>> attendancesById = attendances.GroupBy(a => a.Member.Id)
+              .ToDictionary(group => group.Key, group => group.ToList());
 
-            for (int i = 0; i < 7; i++)
+            foreach (var kvp in attendancesById)
             {
-                AttendanceDataSet.WeekRow row = dataSet.Week.NewWeekRow();
+                Member member = apiController.GetMemberById(kvp.Key); 
 
-                row.Idweek = (i+1).ToString();
-                row.Day = daysOfWeek[i];
-                row.Attendance = random.Next(1,100);
-
-                dataSet.Week.Rows.Add(row);
-            }
-          
-            for (int i = 0; i < 20; i++)
-            {
                 AttendanceDataSet.AttendanceRow row = dataSet.Attendance.NewAttendanceRow();
                 AttendanceDataSet.WeekRow rowWeek = dataSet.Week.NewWeekRow();
 
-                row.Name = $"{names[random.Next(names.Length)]} {lastnames[random.Next(lastnames.Length)]}";
+                row.Name = member.Name + " " + member.LastName;
 
-                int membershipTypeIndex = random.Next(0,membershipTypes.Count);
-
-                row.Attendance = (uint)random.Next(1, 30);
-                row.MembershipType = membershipTypes[membershipTypeIndex].Name;
-                row.Id = (i+1).ToString();
+                int attendanceCount = kvp.Value.Count;
+                row.Attendance = (uint)attendanceCount;
+                row.Id = member.Id + "";
 
                 dataSet.Attendance.Rows.Add(row);
+            }
+
+            DateTime today = DateTime.Today;
+            DateTime lastWeek = today.AddDays(-7).Date; 
+
+            var attendancesLastWeek = attendances.Where(a => a.CheckIn.Date >= lastWeek && a.CheckIn.Date <= today).ToList();
+            Dictionary<string, int> attendancesByDayOfWeek = new Dictionary<string, int>();
+            string[] daysOfWeek = CultureInfo.CurrentCulture.DateTimeFormat.DayNames;
+
+            foreach (var day in daysOfWeek)
+            {
+                attendancesByDayOfWeek.Add(day, 0);
+            }
+
+            foreach (var attendance in attendancesLastWeek)
+            {
+                string dayOfWeek = attendance.CheckIn.ToString("dddd", CultureInfo.CurrentCulture);
+                attendancesByDayOfWeek[dayOfWeek] += 1;
+            }
+            int j = 1;
+            foreach (var kvp in attendancesByDayOfWeek)
+            {
+                AttendanceDataSet.WeekRow row = dataSet.Week.NewWeekRow();
+
+                row.Idweek = (j).ToString();
+                row.Day = kvp.Key;
+                row.Attendance = kvp.Value;
+
+                dataSet.Week.Rows.Add(row);
+                j++;
             }
 
             byte[] streamBytes = null;

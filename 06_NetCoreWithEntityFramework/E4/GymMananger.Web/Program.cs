@@ -16,6 +16,7 @@ using GymManager.Core.MembershipTypes;
 using GymManager.Core.Entities;
 using GymManager.ApplicationServices.Entities;
 using GymManager.ApplicationServices.Entities.Equipment;
+using GymManager.ApplicationServices.Attendace;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -23,16 +24,6 @@ var builder = WebApplication.CreateBuilder(args);
 var cultureInfo = new CultureInfo("es-MX");
 CultureInfo.DefaultThreadCurrentCulture = cultureInfo;
 CultureInfo.DefaultThreadCurrentUICulture = cultureInfo;
-
-/*Log.Logger = new LoggerConfiguration()
-    .MinimumLevel.Information()
-    .MinimumLevel.Override("Microsoft", LogEventLevel.Warning)
-    .Enrich.FromLogContext()
-    .WriteTo.Console()
-    .WriteTo.File("Logs/log.txt")
-    .CreateLogger();
-
-*/
 
 builder.Logging.ClearProviders();
 builder.Logging.AddSerilog();
@@ -42,7 +33,9 @@ builder.Services.AddTransient<IMemberAppService, MemberAppService>();
 builder.Services.AddTransient<IMembershipTypesAppService, MembershipTypesAppService>();
 builder.Services.AddTransient<IMenuAppService, MenuAppService>();
 builder.Services.AddTransient<IEquipmentAppService, EquipmentAppService>();
+builder.Services.AddTransient<IAttendaceAppService, AttendaceAppService>();
 
+builder.Services.AddTransient<IRepository<int, Attendance>, AttendaceRepository>();
 builder.Services.AddTransient<IRepository<int, Member>, MembersReporitory>();
 builder.Services.AddTransient<IRepository<int, MembershipType>, MembershipTypesRepository>();
 builder.Services.AddTransient<IRepository<int, EquipmentType>, EquipmentTypeRepository>();
@@ -51,6 +44,7 @@ builder.Services.AddWkhtmltopdf();
 string connectionString = builder.Configuration.GetConnectionString("Default");
 
 builder.Services.AddDbContext<GymManagerContext>(options => options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
+builder.Services.AddControllers().AddNewtonsoftJson(x => x.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore);
 
 builder.Services.AddDefaultIdentity<IdentityUser>(options =>
     options.SignIn.RequireConfirmedAccount = true)
@@ -79,6 +73,10 @@ app.MapControllerRoute(name: "default", pattern: "{controller=Home}/{action=Inde
 
 app.UseEndpoints(endpoints =>
 {
+
+    //endpoints.MapControllerRoute(
+      // name: "query",
+       //pattern: "{controller=Query}/{action=Index}/{id?}");
 
     endpoints.MapControllerRoute(
         name: "modal",

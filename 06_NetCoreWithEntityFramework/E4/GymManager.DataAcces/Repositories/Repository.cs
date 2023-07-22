@@ -38,10 +38,8 @@ namespace GymManager.DataAcces.Repositories
 
         public virtual IQueryable<TEntity> GetAll()
         {
-
             try
             {
-                
                 return _context.Set<TEntity>();
             }
             catch (Exception ex)

@@ -6443,3 +6443,4 @@ C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\E4\
 C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\E4\GymMananger.Web\obj\Debug\net6.0\GymManager.Web.pdb
 C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\E4\GymMananger.Web\obj\Debug\net6.0\GymManager.Web.genruntimeconfig.cache
 C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\E4\GymMananger.Web\obj\Debug\net6.0\ref\GymManager.Web.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\E4\GymMananger.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll

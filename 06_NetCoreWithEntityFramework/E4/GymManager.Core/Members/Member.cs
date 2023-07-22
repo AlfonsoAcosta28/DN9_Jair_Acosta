@@ -1,4 +1,5 @@
 ﻿using GymManager.Core.Entities;
+using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -35,6 +36,7 @@ namespace GymManager.Core.Members
         public City City { get; set; }
 
         public List<Sales> Sales { get; set; }
+
         public List<Attendance> Attendances { get; set; }
 
         public Member()

@@ -318,8 +318,6 @@ namespace GymManager.DataAcces.Reports {
             
             private global::System.Data.DataColumn columnAttendance;
             
-            private global::System.Data.DataColumn columnMembershipType;
-            
             private global::System.Data.DataColumn columnId;
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -373,14 +371,6 @@ namespace GymManager.DataAcces.Reports {
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
-            public global::System.Data.DataColumn MembershipTypeColumn {
-                get {
-                    return this.columnMembershipType;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
             public global::System.Data.DataColumn IdColumn {
                 get {
                     return this.columnId;
@@ -424,12 +414,11 @@ namespace GymManager.DataAcces.Reports {
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
-            public AttendanceRow AddAttendanceRow(string Name, uint Attendance, string MembershipType, string Id) {
+            public AttendanceRow AddAttendanceRow(string Name, uint Attendance, string Id) {
                 AttendanceRow rowAttendanceRow = ((AttendanceRow)(this.NewRow()));
                 object[] columnValuesArray = new object[] {
                         Name,
                         Attendance,
-                        MembershipType,
                         Id};
                 rowAttendanceRow.ItemArray = columnValuesArray;
                 this.Rows.Add(rowAttendanceRow);
@@ -455,7 +444,6 @@ namespace GymManager.DataAcces.Reports {
             internal void InitVars() {
                 this.columnName = base.Columns["Name"];
                 this.columnAttendance = base.Columns["Attendance"];
-                this.columnMembershipType = base.Columns["MembershipType"];
                 this.columnId = base.Columns["Id"];
             }
             
@@ -466,8 +454,6 @@ namespace GymManager.DataAcces.Reports {
                 base.Columns.Add(this.columnName);
                 this.columnAttendance = new global::System.Data.DataColumn("Attendance", typeof(uint), null, global::System.Data.MappingType.Element);
                 base.Columns.Add(this.columnAttendance);
-                this.columnMembershipType = new global::System.Data.DataColumn("MembershipType", typeof(string), null, global::System.Data.MappingType.Element);
-                base.Columns.Add(this.columnMembershipType);
                 this.columnId = new global::System.Data.DataColumn("Id", typeof(string), null, global::System.Data.MappingType.Element);
                 base.Columns.Add(this.columnId);
             }
@@ -919,22 +905,6 @@ namespace GymManager.DataAcces.Reports {
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
-            public string MembershipType {
-                get {
-                    try {
-                        return ((string)(this[this.tableAttendance.MembershipTypeColumn]));
-                    }
-                    catch (global::System.InvalidCastException e) {
-                        throw new global::System.Data.StrongTypingException("El valor de la columna \'MembershipType\' de la tabla \'Attendance\' es DBNull.", e);
-                    }
-                }
-                set {
-                    this[this.tableAttendance.MembershipTypeColumn] = value;
-                }
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
             public string Id {
                 get {
                     try {
@@ -971,18 +941,6 @@ namespace GymManager.DataAcces.Reports {
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
             public void SetAttendanceNull() {
                 this[this.tableAttendance.AttendanceColumn] = global::System.Convert.DBNull;
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
-            public bool IsMembershipTypeNull() {
-                return this.IsNull(this.tableAttendance.MembershipTypeColumn);
-            }
-            
-            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
-            public void SetMembershipTypeNull() {
-                this[this.tableAttendance.MembershipTypeColumn] = global::System.Convert.DBNull;
             }
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]

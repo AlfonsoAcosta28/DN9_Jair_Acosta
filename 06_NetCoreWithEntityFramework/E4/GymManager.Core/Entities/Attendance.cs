@@ -18,7 +18,6 @@ namespace GymManager.Core.Entities
        
         public DateTime CheckOut { get; set; }
 
-        [Required]
-        public Member Members { get; set; }
+        public Member Member { get; set; }
     }
 }

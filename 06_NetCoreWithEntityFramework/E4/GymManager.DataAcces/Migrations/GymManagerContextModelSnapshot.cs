@@ -16,7 +16,7 @@ namespace GymManager.DataAcces.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "6.0.19")
+                .HasAnnotation("ProductVersion", "6.0.20")
                 .HasAnnotation("Relational:MaxIdentifierLength", 64);
 
             modelBuilder.Entity("GymManager.Core.Entities.Attendance", b =>
@@ -31,12 +31,12 @@ namespace GymManager.DataAcces.Migrations
                     b.Property<DateTime>("CheckOut")
                         .HasColumnType("datetime(6)");
 
-                    b.Property<int>("MembersId")
+                    b.Property<int>("MemberId")
                         .HasColumnType("int");
 
                     b.HasKey("Id");
 
-                    b.HasIndex("MembersId");
+                    b.HasIndex("MemberId");
 
                     b.ToTable("Attendances");
                 });
@@ -470,13 +470,13 @@ namespace GymManager.DataAcces.Migrations
 
             modelBuilder.Entity("GymManager.Core.Entities.Attendance", b =>
                 {
-                    b.HasOne("GymManager.Core.Members.Member", "Members")
+                    b.HasOne("GymManager.Core.Members.Member", "Member")
                         .WithMany("Attendances")
-                        .HasForeignKey("MembersId")
+                        .HasForeignKey("MemberId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("Members");
+                    b.Navigation("Member");
                 });
 
             modelBuilder.Entity("GymManager.Core.Entities.Inventory", b =>
