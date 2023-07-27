@@ -1,0 +1,204 @@
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T2\ParcialViews\GymManager.Core\bin\Debug\net6.0\GymManager.Core.deps.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T2\ParcialViews\GymManager.Core\bin\Debug\net6.0\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T2\ParcialViews\GymManager.Core\bin\Debug\net6.0\GymManager.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T2\ParcialViews\GymManager.Core\obj\Debug\net6.0\GymManager.Core.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T2\ParcialViews\GymManager.Core\obj\Debug\net6.0\GymManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T2\ParcialViews\GymManager.Core\obj\Debug\net6.0\GymManager.Core.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T2\ParcialViews\GymManager.Core\obj\Debug\net6.0\GymManager.Core.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T2\ParcialViews\GymManager.Core\obj\Debug\net6.0\GymManager.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T2\ParcialViews\GymManager.Core\obj\Debug\net6.0\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T2\ParcialViews\GymManager.Core\obj\Debug\net6.0\refint\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T2\ParcialViews\GymManager.Core\obj\Debug\net6.0\GymManager.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T2\ParcialViews\GymManager.Core\obj\Debug\net6.0\ref\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T3\MembersCrud\GymManager.Core\bin\Debug\net6.0\GymManager.Core.deps.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T3\MembersCrud\GymManager.Core\bin\Debug\net6.0\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T3\MembersCrud\GymManager.Core\bin\Debug\net6.0\GymManager.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T3\MembersCrud\GymManager.Core\obj\Debug\net6.0\GymManager.Core.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T3\MembersCrud\GymManager.Core\obj\Debug\net6.0\GymManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T3\MembersCrud\GymManager.Core\obj\Debug\net6.0\GymManager.Core.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T3\MembersCrud\GymManager.Core\obj\Debug\net6.0\GymManager.Core.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T3\MembersCrud\GymManager.Core\obj\Debug\net6.0\GymManager.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T3\MembersCrud\GymManager.Core\obj\Debug\net6.0\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T3\MembersCrud\GymManager.Core\obj\Debug\net6.0\refint\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T3\MembersCrud\GymManager.Core\obj\Debug\net6.0\GymManager.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T3\MembersCrud\GymManager.Core\obj\Debug\net6.0\ref\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T4\MembersCrudValidations\GymManager.Core\bin\Debug\net6.0\GymManager.Core.deps.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T4\MembersCrudValidations\GymManager.Core\bin\Debug\net6.0\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T4\MembersCrudValidations\GymManager.Core\bin\Debug\net6.0\GymManager.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T4\MembersCrudValidations\GymManager.Core\obj\Debug\net6.0\GymManager.Core.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T4\MembersCrudValidations\GymManager.Core\obj\Debug\net6.0\GymManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T4\MembersCrudValidations\GymManager.Core\obj\Debug\net6.0\GymManager.Core.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T4\MembersCrudValidations\GymManager.Core\obj\Debug\net6.0\GymManager.Core.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T4\MembersCrudValidations\GymManager.Core\obj\Debug\net6.0\GymManager.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T4\MembersCrudValidations\GymManager.Core\obj\Debug\net6.0\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T4\MembersCrudValidations\GymManager.Core\obj\Debug\net6.0\refint\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T4\MembersCrudValidations\GymManager.Core\obj\Debug\net6.0\GymManager.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T4\MembersCrudValidations\GymManager.Core\obj\Debug\net6.0\ref\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T5\DynamicMenu\GymManager.Core\bin\Debug\net6.0\GymManager.Core.deps.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T5\DynamicMenu\GymManager.Core\bin\Debug\net6.0\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T5\DynamicMenu\GymManager.Core\bin\Debug\net6.0\GymManager.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T5\DynamicMenu\GymManager.Core\obj\Debug\net6.0\GymManager.Core.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T5\DynamicMenu\GymManager.Core\obj\Debug\net6.0\GymManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T5\DynamicMenu\GymManager.Core\obj\Debug\net6.0\GymManager.Core.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T5\DynamicMenu\GymManager.Core\obj\Debug\net6.0\GymManager.Core.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T5\DynamicMenu\GymManager.Core\obj\Debug\net6.0\GymManager.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T5\DynamicMenu\GymManager.Core\obj\Debug\net6.0\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T5\DynamicMenu\GymManager.Core\obj\Debug\net6.0\refint\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T5\DynamicMenu\GymManager.Core\obj\Debug\net6.0\GymManager.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T5\DynamicMenu\GymManager.Core\obj\Debug\net6.0\ref\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T7\Authentication\GymManager.Core\bin\Debug\net6.0\GymManager.Core.deps.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T7\Authentication\GymManager.Core\bin\Debug\net6.0\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T7\Authentication\GymManager.Core\bin\Debug\net6.0\GymManager.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T7\Authentication\GymManager.Core\obj\Debug\net6.0\GymManager.Core.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T7\Authentication\GymManager.Core\obj\Debug\net6.0\GymManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T7\Authentication\GymManager.Core\obj\Debug\net6.0\GymManager.Core.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T7\Authentication\GymManager.Core\obj\Debug\net6.0\GymManager.Core.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T7\Authentication\GymManager.Core\obj\Debug\net6.0\GymManager.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T7\Authentication\GymManager.Core\obj\Debug\net6.0\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T7\Authentication\GymManager.Core\obj\Debug\net6.0\refint\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T7\Authentication\GymManager.Core\obj\Debug\net6.0\GymManager.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\T7\Authentication\GymManager.Core\obj\Debug\net6.0\ref\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E1\UserName Parcial View\GymManager.Core\bin\Debug\net6.0\GymManager.Core.deps.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E1\UserName Parcial View\GymManager.Core\bin\Debug\net6.0\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E1\UserName Parcial View\GymManager.Core\bin\Debug\net6.0\GymManager.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E1\UserName Parcial View\GymManager.Core\obj\Debug\net6.0\GymManager.Core.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E1\UserName Parcial View\GymManager.Core\obj\Debug\net6.0\GymManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E1\UserName Parcial View\GymManager.Core\obj\Debug\net6.0\GymManager.Core.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E1\UserName Parcial View\GymManager.Core\obj\Debug\net6.0\GymManager.Core.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E1\UserName Parcial View\GymManager.Core\obj\Debug\net6.0\GymManager.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E1\UserName Parcial View\GymManager.Core\obj\Debug\net6.0\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E1\UserName Parcial View\GymManager.Core\obj\Debug\net6.0\refint\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E1\UserName Parcial View\GymManager.Core\obj\Debug\net6.0\GymManager.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E1\UserName Parcial View\GymManager.Core\obj\Debug\net6.0\ref\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E2\Creating Membership Types CRUD\GymManager.Core\bin\Debug\net6.0\GymManager.Core.deps.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E2\Creating Membership Types CRUD\GymManager.Core\bin\Debug\net6.0\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E2\Creating Membership Types CRUD\GymManager.Core\bin\Debug\net6.0\GymManager.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E2\Creating Membership Types CRUD\GymManager.Core\obj\Debug\net6.0\GymManager.Core.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E2\Creating Membership Types CRUD\GymManager.Core\obj\Debug\net6.0\GymManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E2\Creating Membership Types CRUD\GymManager.Core\obj\Debug\net6.0\GymManager.Core.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E2\Creating Membership Types CRUD\GymManager.Core\obj\Debug\net6.0\GymManager.Core.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E2\Creating Membership Types CRUD\GymManager.Core\obj\Debug\net6.0\GymManager.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E2\Creating Membership Types CRUD\GymManager.Core\obj\Debug\net6.0\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E2\Creating Membership Types CRUD\GymManager.Core\obj\Debug\net6.0\refint\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E2\Creating Membership Types CRUD\GymManager.Core\obj\Debug\net6.0\GymManager.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E2\Creating Membership Types CRUD\GymManager.Core\obj\Debug\net6.0\ref\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E4\Implementing Serilog on Gym Manager\GymManager.Core\bin\Debug\net6.0\GymManager.Core.deps.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E4\Implementing Serilog on Gym Manager\GymManager.Core\bin\Debug\net6.0\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E4\Implementing Serilog on Gym Manager\GymManager.Core\bin\Debug\net6.0\GymManager.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E4\Implementing Serilog on Gym Manager\GymManager.Core\obj\Debug\net6.0\GymManager.Core.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E4\Implementing Serilog on Gym Manager\GymManager.Core\obj\Debug\net6.0\GymManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E4\Implementing Serilog on Gym Manager\GymManager.Core\obj\Debug\net6.0\GymManager.Core.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E4\Implementing Serilog on Gym Manager\GymManager.Core\obj\Debug\net6.0\GymManager.Core.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E4\Implementing Serilog on Gym Manager\GymManager.Core\obj\Debug\net6.0\GymManager.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E4\Implementing Serilog on Gym Manager\GymManager.Core\obj\Debug\net6.0\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E4\Implementing Serilog on Gym Manager\GymManager.Core\obj\Debug\net6.0\refint\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E4\Implementing Serilog on Gym Manager\GymManager.Core\obj\Debug\net6.0\GymManager.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\03_NetProjectsWebApi\E4\Implementing Serilog on Gym Manager\GymManager.Core\obj\Debug\net6.0\ref\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T6\CrudEntityFramework\GymManager.Core\bin\Debug\net6.0\GymManager.Core.deps.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T6\CrudEntityFramework\GymManager.Core\bin\Debug\net6.0\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T6\CrudEntityFramework\GymManager.Core\bin\Debug\net6.0\GymManager.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T6\CrudEntityFramework\GymManager.Core\obj\Debug\net6.0\GymManager.Core.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T6\CrudEntityFramework\GymManager.Core\obj\Debug\net6.0\GymManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T6\CrudEntityFramework\GymManager.Core\obj\Debug\net6.0\GymManager.Core.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T6\CrudEntityFramework\GymManager.Core\obj\Debug\net6.0\GymManager.Core.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T6\CrudEntityFramework\GymManager.Core\obj\Debug\net6.0\GymManager.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T6\CrudEntityFramework\GymManager.Core\obj\Debug\net6.0\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T6\CrudEntityFramework\GymManager.Core\obj\Debug\net6.0\refint\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T6\CrudEntityFramework\GymManager.Core\obj\Debug\net6.0\GymManager.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T6\CrudEntityFramework\GymManager.Core\obj\Debug\net6.0\ref\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T7\UsersCRUD\GymManager.Core\bin\Debug\net6.0\GymManager.Core.deps.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T7\UsersCRUD\GymManager.Core\bin\Debug\net6.0\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T7\UsersCRUD\GymManager.Core\bin\Debug\net6.0\GymManager.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T7\UsersCRUD\GymManager.Core\obj\Debug\net6.0\GymManager.Core.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T7\UsersCRUD\GymManager.Core\obj\Debug\net6.0\GymManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T7\UsersCRUD\GymManager.Core\obj\Debug\net6.0\GymManager.Core.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T7\UsersCRUD\GymManager.Core\obj\Debug\net6.0\GymManager.Core.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T7\UsersCRUD\GymManager.Core\obj\Debug\net6.0\GymManager.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T7\UsersCRUD\GymManager.Core\obj\Debug\net6.0\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T7\UsersCRUD\GymManager.Core\obj\Debug\net6.0\refint\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T7\UsersCRUD\GymManager.Core\obj\Debug\net6.0\GymManager.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T7\UsersCRUD\GymManager.Core\obj\Debug\net6.0\ref\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T8\GeneratePDF\GymManager.Core\bin\Debug\net6.0\GymManager.Core.deps.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T8\GeneratePDF\GymManager.Core\bin\Debug\net6.0\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T8\GeneratePDF\GymManager.Core\bin\Debug\net6.0\GymManager.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T8\GeneratePDF\GymManager.Core\obj\Debug\net6.0\GymManager.Core.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T8\GeneratePDF\GymManager.Core\obj\Debug\net6.0\GymManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T8\GeneratePDF\GymManager.Core\obj\Debug\net6.0\GymManager.Core.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T8\GeneratePDF\GymManager.Core\obj\Debug\net6.0\GymManager.Core.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T8\GeneratePDF\GymManager.Core\obj\Debug\net6.0\GymManager.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T8\GeneratePDF\GymManager.Core\obj\Debug\net6.0\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T8\GeneratePDF\GymManager.Core\obj\Debug\net6.0\refint\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T8\GeneratePDF\GymManager.Core\obj\Debug\net6.0\GymManager.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T8\GeneratePDF\GymManager.Core\obj\Debug\net6.0\ref\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T9\RDLC\GymManager.Core\bin\Debug\net6.0\GymManager.Core.deps.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T9\RDLC\GymManager.Core\bin\Debug\net6.0\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T9\RDLC\GymManager.Core\bin\Debug\net6.0\GymManager.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T9\RDLC\GymManager.Core\obj\Debug\net6.0\GymManager.Core.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T9\RDLC\GymManager.Core\obj\Debug\net6.0\GymManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T9\RDLC\GymManager.Core\obj\Debug\net6.0\GymManager.Core.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T9\RDLC\GymManager.Core\obj\Debug\net6.0\GymManager.Core.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T9\RDLC\GymManager.Core\obj\Debug\net6.0\GymManager.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T9\RDLC\GymManager.Core\obj\Debug\net6.0\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T9\RDLC\GymManager.Core\obj\Debug\net6.0\refint\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T9\RDLC\GymManager.Core\obj\Debug\net6.0\GymManager.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T9\RDLC\GymManager.Core\obj\Debug\net6.0\ref\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T10\RDLCChart\GymManager.Core\bin\Debug\net6.0\GymManager.Core.deps.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T10\RDLCChart\GymManager.Core\bin\Debug\net6.0\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T10\RDLCChart\GymManager.Core\bin\Debug\net6.0\GymManager.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T10\RDLCChart\GymManager.Core\obj\Debug\net6.0\GymManager.Core.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T10\RDLCChart\GymManager.Core\obj\Debug\net6.0\GymManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T10\RDLCChart\GymManager.Core\obj\Debug\net6.0\GymManager.Core.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T10\RDLCChart\GymManager.Core\obj\Debug\net6.0\GymManager.Core.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T10\RDLCChart\GymManager.Core\obj\Debug\net6.0\GymManager.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T10\RDLCChart\GymManager.Core\obj\Debug\net6.0\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T10\RDLCChart\GymManager.Core\obj\Debug\net6.0\refint\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T10\RDLCChart\GymManager.Core\obj\Debug\net6.0\GymManager.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\T10\RDLCChart\GymManager.Core\obj\Debug\net6.0\ref\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\E2\GymManager.Core\bin\Debug\net6.0\GymManager.Core.deps.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\E2\GymManager.Core\bin\Debug\net6.0\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\E2\GymManager.Core\bin\Debug\net6.0\GymManager.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\E2\GymManager.Core\obj\Debug\net6.0\GymManager.Core.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\E2\GymManager.Core\obj\Debug\net6.0\GymManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\E2\GymManager.Core\obj\Debug\net6.0\GymManager.Core.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\E2\GymManager.Core\obj\Debug\net6.0\GymManager.Core.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\E2\GymManager.Core\obj\Debug\net6.0\GymManager.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\E2\GymManager.Core\obj\Debug\net6.0\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\E2\GymManager.Core\obj\Debug\net6.0\refint\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\E2\GymManager.Core\obj\Debug\net6.0\GymManager.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\E2\GymManager.Core\obj\Debug\net6.0\ref\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\E3\GymManager.Core\bin\Debug\net6.0\GymManager.Core.deps.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\E3\GymManager.Core\bin\Debug\net6.0\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\E3\GymManager.Core\bin\Debug\net6.0\GymManager.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\E3\GymManager.Core\obj\Debug\net6.0\GymManager.Core.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\E3\GymManager.Core\obj\Debug\net6.0\GymManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\E3\GymManager.Core\obj\Debug\net6.0\GymManager.Core.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\E3\GymManager.Core\obj\Debug\net6.0\GymManager.Core.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\E3\GymManager.Core\obj\Debug\net6.0\GymManager.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\E3\GymManager.Core\obj\Debug\net6.0\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\E3\GymManager.Core\obj\Debug\net6.0\refint\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\E3\GymManager.Core\obj\Debug\net6.0\GymManager.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\E3\GymManager.Core\obj\Debug\net6.0\ref\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\E4\GymManager.Core\bin\Debug\net6.0\GymManager.Core.deps.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\E4\GymManager.Core\bin\Debug\net6.0\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\E4\GymManager.Core\bin\Debug\net6.0\GymManager.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\E4\GymManager.Core\obj\Debug\net6.0\GymManager.Core.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\E4\GymManager.Core\obj\Debug\net6.0\GymManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\E4\GymManager.Core\obj\Debug\net6.0\GymManager.Core.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\E4\GymManager.Core\obj\Debug\net6.0\GymManager.Core.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\E4\GymManager.Core\obj\Debug\net6.0\GymManager.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\E4\GymManager.Core\obj\Debug\net6.0\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\E4\GymManager.Core\obj\Debug\net6.0\refint\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\E4\GymManager.Core\obj\Debug\net6.0\GymManager.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\06_NetCoreWithEntityFramework\E4\GymManager.Core\obj\Debug\net6.0\ref\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\E0\GymManager.Core\bin\Debug\net6.0\GymManager.Core.deps.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\E0\GymManager.Core\bin\Debug\net6.0\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\E0\GymManager.Core\bin\Debug\net6.0\GymManager.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\E0\GymManager.Core\obj\Debug\net6.0\GymManager.Core.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\E0\GymManager.Core\obj\Debug\net6.0\GymManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\E0\GymManager.Core\obj\Debug\net6.0\GymManager.Core.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\E0\GymManager.Core\obj\Debug\net6.0\GymManager.Core.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\E0\GymManager.Core\obj\Debug\net6.0\GymManager.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\E0\GymManager.Core\obj\Debug\net6.0\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\E0\GymManager.Core\obj\Debug\net6.0\refint\GymManager.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\E0\GymManager.Core\obj\Debug\net6.0\GymManager.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\07_CRUDNetTools\E0\GymManager.Core\obj\Debug\net6.0\ref\GymManager.Core.dll

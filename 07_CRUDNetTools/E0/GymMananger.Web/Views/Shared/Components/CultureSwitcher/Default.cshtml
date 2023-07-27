@@ -1,0 +1,36 @@
+﻿﻿@using System.Globalization;
+@using GymManager.Web.Models
+
+@{
+    string FormatCulture(string name)
+    {
+        return Char.ToUpperInvariant(name[0]) + name.Substring(1);
+
+    }
+    string FlagUrl(string cultureName)
+    {
+        string result = Url.Content($"~/Images/{cultureName.Substring(0, 2)}.png");
+        return result;
+    }
+
+    string LangName(CultureInfo culture)
+    {
+        string result = culture.Parent.Name == string.Empty ? culture.DisplayName : culture.Parent.DisplayName;
+        return FormatCulture(result);
+
+    }
+}
+
+@model CultureSwitcherModel
+
+<li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle text-white" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false" href="#">@LangName(Model.CurrentUICulture) <img src="@FlagUrl(Model.CurrentUICulture.Name)" class="lang-flag" /> </a>
+    <ul class="dropdown-menu" aria-labelledby="navbarDarkDropdownMenuLink">
+        @foreach (var culture in Model.SupportedCultures)
+        {
+            <li>
+                <a class="dropdown-item" href="@(this.Context.Request.Path + "?culture="+culture.Name)">@culture.Name<img src="@FlagUrl(culture.Name)" class="lang-flag" /></a>
+            </li>
+        }
+    </ul>
+</li>

@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  gymmanager.web:
+    image: ${DOCKER_REGISTRY-}gymmanagerweb
+    build:
+      context: .
+      dockerfile: GymMananger.Web/Dockerfile

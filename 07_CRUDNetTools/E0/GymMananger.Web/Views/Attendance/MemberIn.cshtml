@@ -1,0 +1,38 @@
+﻿@model GymManager.Web.Models.AttendanceModel
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section Scripts{
+
+<script src="~/JavaScript/Eventos.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    
+}
+
+    <!-- Begin page content -->
+        <div class="container">
+            <h1 class="mt-5">MEMBER IN</h1>
+         
+    <form> <!--  asp-action="MemberIn" -->
+                <div class="mb-3">
+            <label asp-for="Members" class="form-label">Identificador del miembro</label>
+            <input asp-for="Members" type="text" class="form-control memberId" placeholder="Ingrese el identificador del miembro">
+                </div>
+                <div class="alert alert-danger mt-2" id="alerta" hidden="false">
+                    CAMPO VACIO
+                </div>
+                <button id="btnMemberInOut" type="submit" class="btn btn-dark MemberIn">Registrar</button>
+       
+            </form>
+
+        </div>
+
+    <div class="modal__in MemberIn">
+        @{
+            Html.RenderPartial("~/Views/Shared/Modal.cshtml");
+        }
+    </div>
+

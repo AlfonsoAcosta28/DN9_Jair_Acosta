@@ -1,0 +1,38 @@
+﻿﻿@using GymManager.Core.Navegation
+
+@model GymManager.Web.Models.UserMenuItemViewModel
+
+
+@{
+    var orderdChildMenuItems = Model.MenuItem.Items.OrderBy(x => x.Order);
+}
+
+@if (Model.MenuItem.Items.Count < 1)
+{
+    <li class="nav-item">
+        <a class="nav-link d-flex align-items-center gap-2 active @(Model.MenuItem.IsMenuActive(Model.CurrentPageName) ? "active" : "") @(Model.MenuItem.IsMenuActive(Model.CurrentPageName) ? "aria-current=\"page\"" : "")" href="@Model.MenuItem.Url">
+            <svg class="bi"><use xlink:href="#@Model.MenuItem.Icon"/></svg>
+            @Model.MenuItem.DisplayName</a>
+    </li>
+}
+else
+{
+    string currentElementId = "menu-" + new Random().Next();
+
+    <li class="nav-item dropdown">
+        <a class="nav-link d-flex align-items-center gap-2 dropdown-toggle @(Model.MenuItem.IsMenuActive(Model.CurrentPageName) ? "active" : "")" href="#" id="@currentElementId" data-bs-toggle="dropdown" aria-expanded="false">
+            <svg class="bi"><use xlink:href="#@Model.MenuItem.Icon" /></svg>
+            @Model.MenuItem.DisplayName
+            </a>
+        <ul class="dropdown-menu" aria-labelledby="@currentElementId">
+
+            @foreach (var subMenu in Model.MenuItem.Items)
+            {
+
+                <li><a class="nav-link d-flex align-items-center gap-2 dropdown-item" href="@subMenu.Url">@subMenu.DisplayName</a></li>
+            }
+
+        </ul>
+
+    </li>
+}
