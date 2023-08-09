@@ -1,0 +1,17 @@
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\OtherExercises\PatitoBank.Web\PatitoBank.DataAccess\bin\Debug\net6.0\PatitoBank.DataAccess.deps.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\OtherExercises\PatitoBank.Web\PatitoBank.DataAccess\bin\Debug\net6.0\PatitoBank.DataAccess.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\OtherExercises\PatitoBank.Web\PatitoBank.DataAccess\bin\Debug\net6.0\PatitoBank.DataAccess.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\OtherExercises\PatitoBank.Web\PatitoBank.DataAccess\bin\Debug\net6.0\PatitoBank.Core.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\OtherExercises\PatitoBank.Web\PatitoBank.DataAccess\bin\Debug\net6.0\PatitoBank.Core.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\OtherExercises\PatitoBank.Web\PatitoBank.DataAccess\obj\Debug\net6.0\PatitoBank.DataAccess.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\OtherExercises\PatitoBank.Web\PatitoBank.DataAccess\obj\Debug\net6.0\PatitoBank.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\OtherExercises\PatitoBank.Web\PatitoBank.DataAccess\obj\Debug\net6.0\PatitoBank.DataAccess.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\OtherExercises\PatitoBank.Web\PatitoBank.DataAccess\obj\Debug\net6.0\PatitoBank.DataAccess.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\OtherExercises\PatitoBank.Web\PatitoBank.DataAccess\obj\Debug\net6.0\PatitoBank.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\OtherExercises\PatitoBank.Web\PatitoBank.DataAccess\obj\Debug\net6.0\PatitoBank.DataAccess.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\OtherExercises\PatitoBank.Web\PatitoBank.DataAccess\obj\Debug\net6.0\PatitoBank.DataAccess.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\OtherExercises\PatitoBank.Web\PatitoBank.DataAccess\obj\Debug\net6.0\refint\PatitoBank.DataAccess.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\OtherExercises\PatitoBank.Web\PatitoBank.DataAccess\obj\Debug\net6.0\PatitoBank.DataAccess.pdb
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\OtherExercises\PatitoBank.Web\PatitoBank.DataAccess\obj\Debug\net6.0\ref\PatitoBank.DataAccess.dll
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\OtherExercises\PatitoBank.Web\PatitoBank.DataAccess\bin\Debug\net6.0\PatitoBank.DataAccess.runtimeconfig.json
+C:\Users\User\Documents\GitHub\DN9_Jair_Acosta\OtherExercises\PatitoBank.Web\PatitoBank.DataAccess\obj\Debug\net6.0\PatitoBank.DataAccess.genruntimeconfig.cache
